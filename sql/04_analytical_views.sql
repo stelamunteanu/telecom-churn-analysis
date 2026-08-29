@@ -1,6 +1,5 @@
 -- VIEW 01: CUSTOMER 360
 -- Granularity: 1 row per customer
--- Main analytical view for Power BI / Qlik Sense
 
 CREATE OR REPLACE VIEW vw_customer_360 AS
 SELECT
