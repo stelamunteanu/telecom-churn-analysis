@@ -57,7 +57,6 @@ This project focuses on the following questions:
 | `Churn Category`      | General churn category                  |
 | `Churn Reason`        | Reported reason for churn               |
 
-
 ## Tools and Technologies
 
 * **Python**
@@ -370,7 +369,7 @@ The Power BI dashboard is designed to be simple and focused on business question
 
 ### **Dashboard Page 1 — Churn Overview**
 
-![1789394387060](image/README/1789394387060.png)
+![1789395092478](image/README/1789395092478.png)
 
 The first page includes:
 
@@ -403,7 +402,7 @@ This page helps users understand the main patterns in customer churn.
 
 The second page uses the customer prediction file.
 
-![1789394415732](image/README/1789394415732.png)
+![1789395122548](image/README/1789395122548.png)
 
 It includes:
 
@@ -494,7 +493,6 @@ This project shows how customer data can be used to understand churn and support
 The analysis found that contract type, tenure, referrals and monthly charges are important dimensions when studying churn. The Random Forest model achieved strong predictive performance and generated individual churn probabilities that can be used to prioritize customers.
 
 The Power BI dashboard presents the main findings in a clear format and connects the analysis with practical business recommendations.
-
 
 ## Author
 
