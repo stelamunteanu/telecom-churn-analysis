@@ -1,0 +1,1319 @@
+,Age,Number of Dependents,Married,Tenure in Months,Number of Referrals,Monthly Charge,Avg Monthly GB Download,Avg Monthly Long Distance Charges,Phone Service,Multiple Lines,Internet Service,Internet Type,Online Security,Online Backup,Device Protection Plan,Premium Tech Support,Streaming TV,Streaming Movies,Streaming Music,Unlimited Data,Contract,Paperless Billing,Payment Method,Offer,Actual Churn,Churn Probability,Predicted Churn,Risk Segment
+3922,33,2,Yes,13,4,72.8,23.0,13.77,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.277080431711449,0,Low Risk
+5312,73,0,No,1,0,69.95,27.0,22.5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9735527450943984,1,High Risk
+2108,35,0,No,16,0,20.1,,20.65,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.04526774593264027,0,Low Risk
+5850,55,0,Yes,33,1,91.25,17.0,26.8,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.7717350031512354,1,High Risk
+1704,58,0,Yes,67,0,111.3,21.0,29.24,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer A,1,0.5176067216888272,1,Medium Risk
+1228,22,0,Yes,49,8,49.65,27.0,,No,,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.09987738760771327,0,Low Risk
+1320,49,0,Yes,2,1,89.55,23.0,8.86,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9723861878179186,1,High Risk
+4309,24,0,No,8,0,80.0,73.0,39.92,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.7731956635763182,1,High Risk
+1552,66,0,Yes,41,1,111.95,29.0,45.04,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,1,0.5028312479368643,1,Medium Risk
+4428,24,3,Yes,19,1,89.35,52.0,36.92,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.27566411344013586,0,Low Risk
+5950,70,0,Yes,60,3,49.45,22.0,,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,No,No,Two Year,Yes,Credit Card,,0,0.12216747388893545,0,Low Risk
+2861,73,0,Yes,12,3,79.2,13.0,37.15,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.31597799104237334,0,Medium Risk
+5035,19,0,No,65,0,59.6,76.0,43.29,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,Two Year,Yes,Mailed Check,Offer B,0,0.1297601412258822,0,Low Risk
+2363,25,3,Yes,13,0,44.8,59.0,6.18,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,0,0.5261976093399549,1,Medium Risk
+4910,30,0,Yes,71,2,90.55,30.0,28.58,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.04423822592899918,0,Low Risk
+3864,24,0,Yes,33,8,58.45,27.0,8.79,Yes,No,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes,One Year,Yes,Credit Card,Offer C,0,0.09852607916841465,0,Low Risk
+5090,34,0,Yes,59,9,113.75,19.0,14.98,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.13666838142819152,0,Low Risk
+4329,51,2,Yes,72,1,108.3,25.0,41.55,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,,0,0.13615664465397362,0,Low Risk
+2056,57,0,No,61,0,86.45,24.0,4.51,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.09797598488624783,0,Low Risk
+3786,61,2,Yes,53,3,69.7,16.0,31.69,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,,0,0.03331346832942274,0,Low Risk
+998,53,2,Yes,48,2,99.7,29.0,36.18,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.13990386327252013,0,Low Risk
+849,60,3,No,49,0,20.45,,31.7,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.02229156193508235,0,Low Risk
+5578,49,2,Yes,55,9,55.7,14.0,36.41,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer B,0,0.11834556223845252,0,Low Risk
+3938,44,1,Yes,4,4,61.45,21.0,27.24,Yes,No,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,1,0.42380514038507405,0,Medium Risk
+1673,32,0,No,1,0,77.15,19.0,27.7,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.9529331821421902,1,High Risk
+5064,62,0,Yes,37,0,78.95,29.0,37.49,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.6851197892940802,1,High Risk
+4866,29,0,No,13,0,100.75,41.0,44.43,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.6916958144800028,1,High Risk
+4606,79,0,Yes,53,1,25.1,,19.03,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.08668624966275054,0,Low Risk
+5371,39,0,Yes,65,5,89.75,16.0,49.33,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,One Year,No,Bank Withdrawal,Offer B,1,0.130837544179109,0,Low Risk
+4409,59,0,No,30,0,85.35,4.0,43.01,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,One Year,No,Bank Withdrawal,,1,0.28467794249003037,0,Low Risk
+3824,48,0,Yes,72,10,100.65,28.0,41.68,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.07889578653372367,0,Low Risk
+741,36,0,No,51,0,87.55,7.0,14.37,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,Offer B,0,0.3922598371800841,0,Medium Risk
+2980,24,0,No,1,0,19.6,,5.36,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer E,1,0.8307520463633349,1,High Risk
+3850,39,3,Yes,56,4,96.95,53.0,23.52,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.1887393932332903,0,Low Risk
+4043,53,0,No,6,0,94.5,17.0,16.58,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,No,Mailed Check,Offer E,1,0.8080567398244953,1,High Risk
+1793,29,0,Yes,71,10,108.55,73.0,31.97,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.12693113161389652,0,Low Risk
+2092,22,2,Yes,10,3,25.35,,36.37,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.029940166891355677,0,Low Risk
+5210,32,0,No,2,0,95.15,25.0,38.51,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9658131324989974,1,High Risk
+3252,40,0,Yes,64,3,66.15,2.0,37.46,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,One Year,Yes,Credit Card,Offer B,0,0.1321171689218706,0,Low Risk
+2294,27,2,Yes,22,2,19.9,,49.51,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.16161838708081677,0,Low Risk
+3492,74,0,No,2,0,69.6,21.0,15.32,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9762839344554296,1,High Risk
+3708,60,3,Yes,24,6,83.15,53.0,41.45,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.07528923761245507,0,Low Risk
+2340,73,0,Yes,70,3,104.45,13.0,39.34,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.16062148328712192,0,Low Risk
+1221,31,0,No,21,0,20.35,,22.53,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,,0,0.03822647145004218,0,Low Risk
+367,19,0,Yes,16,2,90.7,52.0,27.83,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.5777539409088565,1,Medium Risk
+2900,73,0,Yes,69,2,110.55,14.0,8.3,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Mailed Check,,0,0.3153251928757992,0,Medium Risk
+616,46,0,No,13,0,98.15,15.0,3.36,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Mailed Check,,1,0.7295356896366346,1,High Risk
+3974,25,0,No,66,0,61.15,30.0,21.37,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.08489558581026502,0,Low Risk
+24,37,3,Yes,55,10,103.7,57.0,35.04,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.0954334695306826,0,Low Risk
+245,28,0,Yes,2,1,74.4,41.0,9.79,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8700211049698815,1,High Risk
+2896,58,0,Yes,42,1,84.3,22.0,10.73,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7128285554440166,1,High Risk
+5975,35,0,No,41,0,89.2,16.0,41.85,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.7586145895257909,1,High Risk
+1596,66,0,Yes,58,5,97.8,28.0,45.37,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.21853172213986102,0,Low Risk
+791,45,0,No,62,0,65.1,18.0,23.18,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.08605327345722052,0,Low Risk
+4929,71,1,Yes,60,10,80.95,11.0,18.23,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.04310442551971646,0,Low Risk
+1750,65,0,No,2,0,94.0,22.0,20.99,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9731848209706377,1,High Risk
+2406,70,0,No,16,0,74.45,5.0,22.02,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,Offer D,0,0.12127343707129744,0,Low Risk
+4847,23,0,No,13,0,20.0,,1.61,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer D,0,0.045530473552445466,0,Low Risk
+1092,44,0,No,12,0,59.8,23.0,9.6,Yes,No,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer D,1,0.24700878275545596,0,Low Risk
+1391,31,0,No,34,0,55.0,8.0,43.17,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Credit Card,Offer C,0,0.1383307861664965,0,Low Risk
+3707,62,1,Yes,8,1,54.65,18.0,38.78,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,0,0.4698118978368676,0,Medium Risk
+2910,28,2,Yes,35,1,72.25,82.0,25.27,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.2845581663064104,0,Low Risk
+1458,68,0,Yes,4,1,99.6,20.0,18.91,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8836346778945006,1,High Risk
+2705,33,0,Yes,5,0,81.3,26.0,25.11,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8835497822279115,1,High Risk
+3464,47,0,No,8,0,86.55,2.0,24.76,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8496206015095257,1,High Risk
+4011,60,2,Yes,39,5,59.8,13.0,13.8,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No,One Year,No,Bank Withdrawal,,0,0.0639271662873258,0,Low Risk
+4232,23,0,Yes,46,3,65.65,41.0,46.71,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,,0,0.05791323226101413,0,Low Risk
+1410,56,0,No,7,0,51.0,22.0,34.49,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.5657747036880106,1,Medium Risk
+5223,30,0,Yes,43,7,80.2,69.0,33.97,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.18435413565115905,0,Low Risk
+3877,33,0,No,46,0,60.75,13.0,,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.08495177138459317,0,Low Risk
+3631,58,0,No,19,0,19.95,,19.1,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.03590518616349343,0,Low Risk
+2683,23,0,No,9,0,74.25,76.0,13.86,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.6181359729714156,1,High Risk
+5866,27,0,Yes,68,3,90.2,26.0,3.41,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,Offer A,0,0.102967672066634,0,Low Risk
+1345,42,0,No,4,0,50.7,30.0,9.81,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,1,0.610388336378761,1,High Risk
+5946,68,0,No,11,0,89.7,27.0,3.96,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.8279262459986017,1,High Risk
+1490,54,0,Yes,12,7,33.15,27.0,,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,,0,0.09866743085298794,0,Low Risk
+2631,53,0,No,2,0,30.9,18.0,,No,,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.826912814007854,1,High Risk
+5111,20,0,Yes,64,5,73.05,71.0,26.64,Yes,No,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.16704707979368255,0,Low Risk
+4832,60,0,No,61,0,89.2,27.0,14.52,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,Offer B,0,0.6120067411842074,1,High Risk
+3911,42,0,Yes,32,1,19.3,,45.26,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.060407565526405284,0,Low Risk
+2829,23,0,No,41,0,114.5,59.0,21.56,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.5164128416766632,1,Medium Risk
+3832,47,1,Yes,69,5,59.1,19.0,14.48,Yes,No,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,Offer A,0,0.05244314683750696,0,Low Risk
+148,22,0,No,2,0,85.65,27.0,40.43,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9541681086236546,1,High Risk
+786,30,0,No,45,0,108.45,73.0,5.97,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.5380165600561262,1,Medium Risk
+5022,73,0,No,2,0,54.85,6.0,25.74,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,1,0.773862076857986,1,High Risk
+2982,46,2,Yes,3,1,,15.0,,No,,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,1,0.7285080176476699,1,High Risk
+5805,28,0,No,9,0,74.85,73.0,13.05,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6516770080921254,1,High Risk
+595,55,0,No,3,0,83.75,4.0,46.36,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.9329830589348834,1,High Risk
+972,31,1,Yes,31,10,20.65,,9.56,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,0,0.11282110902922035,0,Low Risk
+1274,27,0,No,1,0,84.3,59.0,1.63,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,No,Month-to-Month,No,Bank Withdrawal,,1,0.9027550286977125,1,High Risk
+4175,19,0,No,19,0,58.2,69.0,24.35,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.19000229136855407,0,Low Risk
+1006,37,0,Yes,42,0,20.35,,5.95,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer B,0,0.2532491675455671,0,Low Risk
+5536,36,0,No,37,0,20.15,,34.37,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.027344156372643768,0,Low Risk
+3673,49,0,Yes,20,0,19.25,,48.03,Yes,No,No,,,,,,,,,,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.3822617679546109,0,Medium Risk
+8,68,0,No,7,0,48.2,21.0,10.53,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,Offer E,0,0.1860131393196431,0,Low Risk
+1968,31,0,Yes,48,1,34.7,22.0,,No,,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,One Year,No,Mailed Check,,1,0.28039560382641565,0,Low Risk
+2835,73,0,No,6,0,85.15,30.0,29.41,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.7968169655322394,1,High Risk
+4283,20,0,Yes,35,5,54.95,59.0,42.18,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.1257999302028619,0,Low Risk
+4251,44,0,No,66,0,104.55,26.0,16.39,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer A,0,0.3183801437397024,0,Medium Risk
+4426,55,0,Yes,31,7,75.25,22.0,29.06,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.12477429631250397,0,Low Risk
+5942,63,1,No,13,0,56.0,10.0,27.04,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.48136708000974543,0,Medium Risk
+331,58,3,Yes,20,9,20.35,,42.46,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.09913731622780374,0,Low Risk
+4820,68,0,Yes,18,1,99.75,15.0,25.27,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7960465524648447,1,High Risk
+999,50,0,Yes,71,5,99.0,6.0,44.06,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,No,Two Year,Yes,Bank Withdrawal,,0,0.11954075423756352,0,Low Risk
+5563,62,1,Yes,55,3,20.3,,3.18,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.003071514518876805,0,Low Risk
+1820,42,0,No,29,0,19.8,,46.12,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,,0,0.04128476761045295,0,Low Risk
+6015,35,0,No,59,0,54.15,9.0,49.48,Yes,Yes,Yes,Cable,No,No,Yes,No,No,No,No,Yes,Two Year,No,Credit Card,Offer B,0,0.15028450965509751,0,Low Risk
+1376,45,2,Yes,63,7,39.35,16.0,,No,,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.051547774418542726,0,Low Risk
+3655,35,7,No,1,0,19.25,,12.81,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,1,0.6968115483253884,1,High Risk
+2371,48,3,Yes,32,2,36.25,53.0,,No,,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Mailed Check,Offer C,0,0.12648693445145637,0,Low Risk
+3735,69,0,No,2,0,89.5,19.0,47.47,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9137858469541008,1,High Risk
+1926,61,0,No,66,0,90.05,24.0,13.28,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.08289294118984485,0,Low Risk
+3090,28,0,No,48,0,95.4,46.0,4.15,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5289358487227005,1,Medium Risk
+2375,48,0,Yes,69,7,113.25,3.0,33.23,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer A,0,0.09053245216958851,0,Low Risk
+1424,39,0,Yes,72,9,85.9,24.0,10.87,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.021136992601528824,0,Low Risk
+757,33,0,Yes,69,6,85.4,29.0,34.49,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer A,0,0.45112438027785645,0,Medium Risk
+4685,36,0,Yes,24,2,89.25,8.0,10.23,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.4957448969550384,0,Medium Risk
+102,80,0,No,30,0,74.75,5.0,38.61,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.2554183762754589,0,Low Risk
+5114,57,1,Yes,5,1,80.15,19.0,11.54,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6744580598452665,1,High Risk
+177,32,0,No,5,0,19.25,,21.01,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.3141033395491392,0,Medium Risk
+5393,47,0,Yes,38,5,60.0,25.0,,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.06310209845400334,0,Low Risk
+2479,68,0,Yes,56,1,100.65,29.0,33.81,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8522758812646676,1,High Risk
+961,39,0,Yes,66,6,105.2,30.0,42.23,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer A,0,0.5181911681406949,1,Medium Risk
+932,57,0,No,12,0,19.7,,36.65,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.0426763756282538,0,Low Risk
+6525,65,0,Yes,40,1,,20.0,49.5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.7867621198440803,1,High Risk
+2767,48,2,Yes,72,0,19.95,,8.53,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.025576020218403397,0,Low Risk
+6454,52,0,Yes,17,6,61.95,25.0,47.59,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Mailed Check,,0,0.14220766946117627,0,Low Risk
+4557,62,3,No,11,0,20.1,,33.06,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,1,0.2108211897229638,0,Low Risk
+1651,61,0,Yes,35,10,73.45,20.0,13.39,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.21638364034821844,0,Low Risk
+1232,57,0,Yes,45,1,113.3,4.0,33.54,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Mailed Check,Offer B,0,0.5681157276871717,1,Medium Risk
+313,28,0,No,21,0,73.7,42.0,28.54,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.7255118809000537,1,High Risk
+925,45,0,Yes,70,3,84.6,21.0,1.07,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.07593442723606005,0,Low Risk
+3931,59,3,Yes,48,1,26.3,,20.73,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.02954236507116359,0,Low Risk
+560,68,0,Yes,26,4,85.7,4.0,46.24,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Two Year,Yes,Credit Card,,0,0.12011578699016966,0,Low Risk
+91,56,0,No,72,0,114.9,5.0,48.37,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.24306359267191255,0,Low Risk
+1808,56,0,Yes,49,3,20.05,,22.1,Yes,No,No,,,,,,,,,,One Year,Yes,Bank Withdrawal,,0,0.07664898989570589,0,Low Risk
+5406,36,0,Yes,72,7,84.9,19.0,1.34,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.03437895804632728,0,Low Risk
+2617,35,0,No,25,0,99.5,8.0,48.42,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7367972380853002,1,High Risk
+6010,61,0,No,5,0,81.0,23.0,20.2,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Credit Card,Offer E,1,0.7902997748924738,1,High Risk
+713,24,2,Yes,55,8,19.4,,27.75,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.007988019932834505,0,Low Risk
+12,58,0,Yes,5,0,68.95,10.0,18.65,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.7905110707176133,1,High Risk
+3928,51,3,Yes,23,6,75.3,75.0,48.73,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.20524816814091842,0,Low Risk
+6,67,0,Yes,71,1,109.7,14.0,9.96,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.24584441722714176,0,Low Risk
+3185,67,0,No,56,0,104.75,7.0,27.64,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,No,Bank Withdrawal,,0,0.19649940472126756,0,Low Risk
+4843,31,0,No,28,0,100.2,13.0,12.36,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer C,0,0.4996641363205105,0,Medium Risk
+3269,48,0,No,27,0,94.55,6.0,11.09,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,,1,0.7718996436327966,1,High Risk
+3359,22,0,Yes,48,4,105.1,51.0,39.25,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.42144075416142535,0,Medium Risk
+6376,55,2,No,53,0,84.6,18.0,14.54,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.2275582213848252,0,Low Risk
+4472,74,0,Yes,71,10,89.45,27.0,16.26,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes,Two Year,No,Credit Card,Offer A,0,0.07570948082272766,0,Low Risk
+6082,49,0,No,1,0,94.4,6.0,18.34,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9052658223302327,1,High Risk
+3493,78,0,No,2,0,85.55,25.0,5.49,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9647198117632649,1,High Risk
+4264,68,0,Yes,66,1,105.95,11.0,27.75,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Credit Card,,1,0.4451793420379232,0,Medium Risk
+4841,60,0,No,22,0,,23.0,12.19,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6296215557659933,1,High Risk
+5297,42,3,Yes,72,5,24.9,,18.21,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.003583296525689411,0,Low Risk
+1187,23,0,Yes,71,10,66.8,85.0,,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.1380285412969907,0,Low Risk
+5266,77,0,Yes,1,1,24.8,19.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9286994471284078,1,High Risk
+2940,44,0,Yes,12,1,85.05,20.0,44.6,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.7678870828242257,1,High Risk
+2695,32,0,Yes,28,7,60.9,24.0,28.86,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Mailed Check,Offer C,0,0.24303250835743684,0,Low Risk
+2464,55,3,Yes,68,1,109.05,53.0,18.42,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.16416482573781757,0,Low Risk
+3709,48,0,No,1,0,85.45,23.0,22.97,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9617020121480264,1,High Risk
+461,52,0,No,12,0,61.65,30.0,36.24,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,1,0.4401867551677316,0,Medium Risk
+5700,38,0,No,44,0,53.95,4.0,,No,,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,1,0.33037230279183527,0,Medium Risk
+5695,79,0,No,26,0,66.05,15.0,12.09,Yes,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.1095174333807075,0,Low Risk
+2013,51,2,Yes,19,10,50.1,13.0,9.47,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer D,0,0.17571562411812267,0,Low Risk
+5691,64,0,Yes,71,10,,29.0,4.71,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,,0,0.05300557871054789,0,Low Risk
+6500,19,0,No,34,0,20.35,,36.75,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.2217277017476153,0,Low Risk
+6382,42,0,No,2,0,80.25,30.0,39.03,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9657393042042897,1,High Risk
+1338,56,0,No,65,0,25.75,,4.9,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.06203847540710903,0,Low Risk
+6135,46,3,Yes,14,1,84.8,53.0,26.58,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5129351844701066,1,Medium Risk
+4224,40,3,Yes,13,3,63.15,25.0,39.2,Yes,No,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.2892478329407377,0,Low Risk
+1694,68,0,No,9,0,85.05,6.0,12.18,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8834427178540423,1,High Risk
+99,71,0,Yes,7,8,89.0,11.0,41.97,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.15741951541592863,0,Low Risk
+1431,41,3,Yes,5,6,24.3,,6.7,Yes,Yes,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.18004238044941126,0,Low Risk
+4177,48,0,No,22,0,79.35,17.0,19.19,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7628278575668731,1,High Risk
+6067,27,0,Yes,14,1,85.15,42.0,21.3,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8457246218716306,1,High Risk
+4306,51,3,No,62,0,26.0,,2.83,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.04413576499170133,0,Low Risk
+2361,25,0,Yes,58,1,59.9,76.0,48.98,Yes,Yes,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,Offer B,0,0.14593500723079672,0,Low Risk
+2908,21,0,No,61,0,103.95,30.0,15.44,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.5682551292123386,1,Medium Risk
+4436,61,0,Yes,43,2,51.25,6.0,,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.1928156865743834,0,Low Risk
+5469,21,0,Yes,72,6,86.4,41.0,15.35,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.02983453584046801,0,Low Risk
+5325,50,0,Yes,42,1,99.45,9.0,34.65,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.6876310151169861,1,High Risk
+457,56,0,Yes,13,1,65.85,4.0,14.32,Yes,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.629526663056511,1,High Risk
+4433,32,0,No,3,0,74.4,24.0,23.82,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9363491391025924,1,High Risk
+6361,64,0,Yes,30,1,100.05,22.0,39.74,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8480324156213203,1,High Risk
+4151,54,0,No,7,0,23.5,,1.41,Yes,Yes,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer E,0,0.37590051263718877,0,Medium Risk
+6392,80,2,Yes,61,10,99.0,22.0,4.51,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.15469243012218944,0,Low Risk
+4200,27,0,No,13,0,31.65,27.0,,No,,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5707760197215813,1,Medium Risk
+6197,39,2,No,4,0,70.15,17.0,29.4,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7937551786640532,1,High Risk
+4237,42,0,Yes,10,1,70.1,19.0,22.03,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8446084268607762,1,High Risk
+1571,79,0,No,6,0,98.25,29.0,47.35,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8948953926241046,1,High Risk
+6580,62,3,Yes,46,0,19.75,,7.67,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.024050139687749855,0,Low Risk
+3020,49,1,Yes,30,8,19.3,,11.6,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer C,0,0.014383549609311543,0,Low Risk
+3239,23,0,Yes,26,6,73.5,58.0,34.12,Yes,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,Offer C,0,0.11110584188111358,0,Low Risk
+3618,49,3,No,19,0,75.9,57.0,8.02,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.3262954595807583,0,Medium Risk
+4070,39,2,Yes,6,7,94.05,19.0,41.29,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.31918704690617344,0,Medium Risk
+2291,58,0,No,17,0,19.4,,30.07,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer D,0,0.06322930011850239,0,Low Risk
+2632,37,2,Yes,41,1,35.4,16.0,,No,,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,One Year,No,Credit Card,Offer B,0,0.1491336794780569,0,Low Risk
+4582,53,0,No,12,0,53.75,3.0,1.8,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4932326935562876,0,Medium Risk
+6187,42,0,No,62,0,94.0,26.0,32.29,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.469853093326358,0,Medium Risk
+2321,40,0,No,42,0,49.55,23.0,8.71,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5309886932067179,1,Medium Risk
+1209,59,0,Yes,36,8,80.4,23.0,49.33,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.3880184691139233,0,Medium Risk
+5818,58,0,No,12,0,49.05,12.0,44.78,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5981736096595172,1,Medium Risk
+5436,48,0,No,46,0,93.7,3.0,15.78,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6197861931156199,1,High Risk
+3280,37,0,No,57,0,20.75,,38.73,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.02829557948564359,0,Low Risk
+4249,75,0,No,25,0,102.8,30.0,36.5,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.7347597112464905,1,High Risk
+1896,76,0,No,13,0,59.9,30.0,49.9,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6680289154116804,1,High Risk
+6372,20,0,Yes,71,9,24.5,,32.18,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.05074161212306501,0,Low Risk
+1772,40,0,No,9,0,77.65,23.0,22.88,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8219136939441807,1,High Risk
+4766,62,0,No,37,0,70.35,25.0,28.84,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.6419762598028531,1,High Risk
+5841,24,0,Yes,72,5,110.65,73.0,41.21,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.09714399715182659,0,Low Risk
+4401,26,0,Yes,12,1,51.25,73.0,46.88,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.625961208160737,1,High Risk
+4003,33,0,No,30,0,90.25,19.0,30.06,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7381940197614543,1,High Risk
+2174,60,2,Yes,29,6,80.1,27.0,6.73,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,0,0.21837446771578417,0,Low Risk
+1745,24,2,No,8,0,20.05,,15.66,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer E,0,0.31962555559649797,0,Medium Risk
+851,66,0,No,42,0,,19.0,13.51,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.2149748202410605,0,Low Risk
+1303,48,1,Yes,65,7,26.0,,2.95,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0025012194271448037,0,Low Risk
+58,24,0,No,16,0,71.4,48.0,25.71,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6222173224960041,1,High Risk
+2156,23,0,No,20,0,19.5,,10.97,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.33608684009737905,0,Medium Risk
+1751,73,0,Yes,1,1,49.55,9.0,24.24,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8694748021140472,1,High Risk
+2738,72,0,Yes,67,9,102.9,17.0,48.68,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.15370336034146306,0,Low Risk
+2072,49,5,No,14,0,19.95,,40.66,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.19751527684307543,0,Low Risk
+6113,77,0,No,21,0,95.4,16.0,37.4,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.8896178282490227,1,High Risk
+2149,69,0,Yes,29,0,79.3,2.0,10.55,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.751777962170369,1,High Risk
+3948,67,0,No,32,0,96.15,18.0,25.45,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,Offer C,1,0.8297075210373767,1,High Risk
+4599,25,0,No,5,0,80.2,59.0,48.86,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,0,0.8068647074936092,1,High Risk
+2784,78,1,Yes,56,8,72.6,19.0,5.93,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,No,No,Two Year,Yes,Credit Card,Offer B,0,0.04873498461024194,0,Low Risk
+1561,24,0,No,10,0,19.75,,20.29,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.2599055046568145,0,Low Risk
+2703,57,0,No,5,0,19.85,,6.17,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,1,0.27433142451850256,0,Low Risk
+5717,47,0,No,14,0,55.0,4.0,,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5800447645155014,1,Medium Risk
+3760,34,0,No,2,0,40.4,8.0,,No,,Yes,DSL,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.8153860793444422,1,High Risk
+5166,74,0,Yes,10,2,86.65,4.0,46.5,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8309901921865683,1,High Risk
+4698,19,0,Yes,9,4,50.85,76.0,12.59,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.3784797014953891,0,Medium Risk
+3653,38,0,No,70,0,90.25,3.0,13.4,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,No,One Year,Yes,Bank Withdrawal,,0,0.29025860232716527,0,Low Risk
+2595,57,0,No,72,0,19.3,,45.75,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.05663161393421076,0,Low Risk
+1083,55,0,No,42,0,19.8,,38.74,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.10770410379024535,0,Low Risk
+171,61,0,No,19,0,65.35,6.0,41.79,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.29525710361739765,0,Low Risk
+4015,51,0,Yes,69,3,105.35,6.0,14.69,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,No,Two Year,No,Bank Withdrawal,,0,0.21571559188284903,0,Low Risk
+5181,33,0,Yes,27,10,48.7,5.0,9.01,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,One Year,No,Credit Card,,0,0.07128078705941487,0,Low Risk
+2960,33,0,Yes,71,5,24.65,,43.37,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.038254420811185436,0,Low Risk
+1299,56,0,Yes,49,3,100.85,10.0,44.81,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,,0,0.5670819618456924,1,Medium Risk
+3007,23,0,No,57,0,39.3,59.0,,No,,Yes,DSL,No,Yes,No,No,Yes,No,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.5432890559150002,1,Medium Risk
+4384,49,0,No,72,0,109.2,22.0,35.11,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.2013245238049069,0,Low Risk
+274,40,0,No,15,0,49.0,28.0,11.75,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6645014957220332,1,High Risk
+385,62,0,No,53,0,19.75,,26.21,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,1,0.04586564056745539,0,Low Risk
+3108,23,0,Yes,67,2,105.7,73.0,25.46,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer A,0,0.4274114729341916,0,Medium Risk
+3624,76,0,Yes,72,9,64.45,9.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.05015719376224644,0,Low Risk
+4825,20,0,Yes,50,3,44.45,73.0,,No,,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.15732635199291845,0,Low Risk
+1217,62,0,Yes,7,1,86.5,11.0,22.61,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8719430042499607,1,High Risk
+4026,33,0,No,52,0,49.75,8.0,38.93,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.457425274165226,0,Medium Risk
+5457,39,3,Yes,12,8,49.2,57.0,9.58,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.24239717142523973,0,Low Risk
+727,39,3,No,44,0,77.55,26.0,5.07,Yes,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.2418606065095461,0,Low Risk
+5031,48,2,Yes,32,10,50.6,19.0,,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,0,0.2008099486757457,0,Low Risk
+5788,70,0,Yes,71,7,92.0,10.0,36.6,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.11265401361407083,0,Low Risk
+2765,33,0,No,66,0,88.9,15.0,31.93,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.3151146817173217,0,Medium Risk
+4806,49,0,Yes,2,4,94.2,19.0,18.79,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7709794447801595,1,High Risk
+672,56,0,No,20,0,70.55,26.0,3.8,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,0,0.6105973670012278,1,High Risk
+1499,37,0,No,64,0,104.4,14.0,45.82,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.2962077954922782,0,Low Risk
+5468,27,0,No,5,0,55.75,41.0,30.92,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer E,0,0.5673565766636758,1,Medium Risk
+845,52,2,Yes,55,3,69.05,17.0,27.87,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Credit Card,Offer B,0,0.0653926341387385,0,Low Risk
+218,41,3,No,25,0,20.05,,12.87,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer C,0,0.19868438093354762,0,Low Risk
+3273,54,2,Yes,56,1,24.15,,37.67,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.02387062451857033,0,Low Risk
+3055,23,0,Yes,70,5,98.7,42.0,45.24,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.17664090971422988,0,Low Risk
+724,38,0,No,39,0,100.45,19.0,37.94,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.2743761562624428,0,Low Risk
+864,42,0,No,7,0,25.05,4.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6329853552651791,1,High Risk
+3223,76,0,No,29,0,98.65,16.0,20.98,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7250134180884891,1,High Risk
+4887,35,0,No,37,0,65.6,30.0,38.43,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.08946209264074056,0,Low Risk
+2539,29,0,No,16,0,49.45,59.0,48.45,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.4571993990972885,0,Medium Risk
+4435,20,1,No,40,0,55.25,76.0,8.08,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.36977856344548815,0,Medium Risk
+3723,53,1,Yes,35,9,25.4,,32.75,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.013265535583753041,0,Low Risk
+3329,19,1,Yes,30,1,83.55,48.0,10.24,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.3947896529694159,0,Medium Risk
+5886,40,1,Yes,72,4,109.2,14.0,44.03,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.09041021333896875,0,Low Risk
+5786,38,2,Yes,70,1,19.8,,48.44,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.027949316524159423,0,Low Risk
+1258,46,0,Yes,71,0,25.05,,44.84,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.05359741909591453,0,Low Risk
+1829,77,0,Yes,24,1,93.15,12.0,16.1,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.8528891040222804,1,High Risk
+6569,79,0,No,21,0,,7.0,42.27,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8255711529490761,1,High Risk
+6539,55,3,No,33,0,95.3,53.0,10.36,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,0,0.5142854960109292,1,Medium Risk
+5756,39,0,Yes,31,1,91.15,13.0,38.67,Yes,Yes,Yes,Cable,No,Yes,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.7842806538047631,1,High Risk
+2633,77,0,Yes,36,1,96.5,3.0,16.61,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8991236187607922,1,High Risk
+3050,73,0,No,11,0,55.6,3.0,2.81,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.145178131883398,0,Low Risk
+6363,44,1,Yes,38,9,25.05,,33.1,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer C,0,0.012981306239482102,0,Low Risk
+2284,54,0,No,34,0,26.1,,20.47,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.057001856329200726,0,Low Risk
+1559,29,0,Yes,72,8,108.4,59.0,10.68,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.16725612986142455,0,Low Risk
+5110,21,0,Yes,71,5,54.5,59.0,48.32,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.06335625865607462,0,Low Risk
+1436,21,0,Yes,72,9,,59.0,22.41,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,Two Year,No,Credit Card,Offer A,0,0.04617529424779741,0,Low Risk
+1061,38,2,No,6,0,20.2,,16.91,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.2699258880195722,0,Low Risk
+819,46,0,Yes,9,1,75.75,25.0,31.75,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8559005998893451,1,High Risk
+3386,32,0,No,67,0,19.95,,15.32,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.03331084288485045,0,Low Risk
+6360,63,0,Yes,47,7,19.65,,6.54,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.011696870445171864,0,Low Risk
+3099,59,0,Yes,60,5,95.4,29.0,5.43,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.19243693013242294,0,Low Risk
+6311,60,0,Yes,71,8,98.65,10.0,34.72,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.23622016178123975,0,Low Risk
+4118,46,0,Yes,63,3,99.7,6.0,26.81,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.1368386401374183,0,Low Risk
+5411,35,0,No,15,0,19.75,,3.49,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.2292255032535275,0,Low Risk
+4394,50,0,No,24,0,60.45,4.0,23.71,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.33448442102360637,0,Medium Risk
+5271,29,0,No,60,0,64.75,27.0,37.95,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,No,No,One Year,No,Bank Withdrawal,,0,0.10639046353389309,0,Low Risk
+2232,46,2,Yes,43,8,60.4,10.0,,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,One Year,Yes,Credit Card,,0,0.09076303921217842,0,Low Risk
+2258,36,0,Yes,41,10,80.25,3.0,39.39,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.3858547887483324,0,Medium Risk
+5595,37,3,Yes,28,1,92.2,30.0,13.19,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.28203922503849943,0,Low Risk
+2370,52,0,Yes,22,7,94.7,15.0,37.8,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.3813084589206712,0,Medium Risk
+5293,49,0,No,4,0,20.7,,27.04,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.31764706637944706,0,Medium Risk
+3012,20,2,No,53,0,62.85,59.0,47.81,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,One Year,No,Credit Card,Offer B,0,0.0961063918502618,0,Low Risk
+5439,50,0,No,12,0,50.25,26.0,46.58,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,1,0.5027207191635278,1,Medium Risk
+311,41,0,No,1,0,69.5,27.0,8.31,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9542400122882756,1,High Risk
+614,21,0,No,7,0,80.3,42.0,39.21,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,No,Month-to-Month,Yes,Mailed Check,,1,0.7969678472140366,1,High Risk
+2356,25,1,No,17,0,80.85,73.0,45.92,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No,One Year,No,Bank Withdrawal,,0,0.2266570855295871,0,Low Risk
+188,29,0,No,6,0,55.15,30.0,6.98,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,Offer E,0,0.5906340485246712,1,Medium Risk
+4028,78,0,Yes,13,1,70.45,26.0,36.57,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.8095557529001159,1,High Risk
+2162,58,0,Yes,28,1,106.1,24.0,9.62,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer C,1,0.5635895578916511,1,Medium Risk
+5881,61,0,Yes,7,4,44.25,24.0,31.43,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,0,0.4088931988708891,0,Medium Risk
+5998,50,0,No,47,0,100.75,25.0,47.73,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.4855664550371863,0,Medium Risk
+3682,70,0,No,1,0,69.85,30.0,43.45,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.9628140989119142,1,High Risk
+3278,80,0,No,1,0,75.35,18.0,28.49,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9684756747258851,1,High Risk
+173,61,3,Yes,72,8,63.8,22.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.014301191202515369,0,Low Risk
+3717,77,0,No,20,0,94.1,12.0,48.73,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8598997723799725,1,High Risk
+4839,45,2,Yes,62,2,20.45,,1.87,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.009905893862721131,0,Low Risk
+3952,27,0,Yes,64,1,108.5,71.0,4.01,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.5288824488227982,1,Medium Risk
+3119,46,0,Yes,63,8,110.1,15.0,3.18,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.09555032768115926,0,Low Risk
+4680,62,0,No,30,0,19.7,,24.57,Yes,No,No,,,,,,,,,,One Year,No,Mailed Check,,0,0.07210846941874376,0,Low Risk
+650,47,2,Yes,62,8,106.05,23.0,15.05,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.07407230285560619,0,Low Risk
+5814,34,0,No,18,0,99.85,3.0,36.49,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6716454095279847,1,High Risk
+4289,61,1,Yes,47,1,99.35,16.0,31.35,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.4768017885847045,0,Medium Risk
+2607,77,1,Yes,71,5,19.8,,32.12,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.009600556742576191,0,Low Risk
+2808,30,2,Yes,10,6,55.55,59.0,5.74,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.2250906463241013,0,Low Risk
+5236,49,0,No,2,0,42.6,21.0,,No,,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.775683891934763,1,High Risk
+2086,74,0,Yes,57,1,95.25,21.0,49.91,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8417362953989604,1,High Risk
+4100,35,0,No,5,0,24.3,21.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,0,0.6409271895940292,1,High Risk
+3718,44,0,No,15,0,84.35,4.0,6.22,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.6191470108382734,1,High Risk
+4974,54,0,No,9,0,45.4,20.0,,No,,Yes,Cable,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.7074712487299155,1,High Risk
+4022,59,2,Yes,23,4,57.2,30.0,37.86,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,,0,0.0518484646276512,0,Low Risk
+5287,63,0,No,21,0,97.35,10.0,9.06,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8054903281553175,1,High Risk
+147,80,0,Yes,27,2,75.2,25.0,7.02,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6502665542294328,1,High Risk
+3188,30,0,No,1,0,44.9,59.0,41.78,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.936778349750871,1,High Risk
+4143,42,3,Yes,61,7,20.4,,31.49,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer B,0,0.010095669831739871,0,Low Risk
+4448,46,3,No,35,0,,56.0,12.56,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Credit Card,,0,0.12548892756097293,0,Low Risk
+4374,40,3,No,50,0,43.05,76.0,,No,,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.12178620757867908,0,Low Risk
+4333,19,2,Yes,24,6,20.8,,25.84,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer C,0,0.02789337028412673,0,Low Risk
+2474,77,1,Yes,35,6,76.05,17.0,14.19,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.124020996456932,0,Low Risk
+3327,35,0,No,39,0,50.75,4.0,,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.5676079315037563,1,Medium Risk
+5547,34,2,No,9,0,50.1,29.0,27.64,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.6030896130894692,1,High Risk
+1610,66,0,Yes,23,1,86.8,2.0,42.59,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.4622180350963566,0,Medium Risk
+3438,64,2,No,33,0,34.05,12.0,,No,,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,One Year,No,Credit Card,,0,0.10078037011279649,0,Low Risk
+5614,57,0,No,19,0,78.7,13.0,29.55,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.762644292190814,1,High Risk
+43,19,0,Yes,72,5,85.15,52.0,32.36,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.0627132691191989,0,Low Risk
+4595,63,0,No,1,0,76.35,9.0,7.26,Yes,No,Yes,Cable,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9099959479464801,1,High Risk
+2819,48,0,No,7,0,74.35,23.0,1.67,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.6052122071868734,1,High Risk
+4290,35,0,Yes,4,5,20.15,,45.84,Yes,No,No,,,,,,,,,,Month-to-Month,No,Bank Withdrawal,,0,0.3725681467985399,0,Medium Risk
+2897,43,0,Yes,10,2,52.55,20.0,,No,,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.14286671211092325,0,Low Risk
+3966,42,0,No,65,0,26.5,,33.71,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.03719482552539645,0,Low Risk
+342,72,0,Yes,57,2,71.1,10.0,48.16,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes,One Year,Yes,Credit Card,,0,0.18540645219940624,0,Low Risk
+6346,51,2,Yes,68,2,103.25,29.0,21.86,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.05058153533927072,0,Low Risk
+3988,72,0,No,54,0,55.45,26.0,,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.3275598934304343,0,Medium Risk
+4001,76,0,Yes,28,6,110.85,8.0,45.67,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.23565302808889896,0,Low Risk
+5935,29,0,Yes,64,5,105.25,30.0,40.18,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.15578149135142622,0,Low Risk
+1465,75,0,No,14,0,74.3,10.0,35.07,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8852334092716281,1,High Risk
+5091,44,0,No,1,0,44.15,10.0,8.77,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.8945175128652365,1,High Risk
+4957,56,0,No,43,0,100.0,23.0,39.37,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,Offer B,1,0.4885331895758897,0,Medium Risk
+676,28,2,Yes,71,1,19.9,,20.49,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.01571489613887019,0,Low Risk
+4508,58,3,No,40,0,20.4,,26.41,Yes,No,No,,,,,,,,,,One Year,Yes,Bank Withdrawal,Offer B,0,0.09810180438272034,0,Low Risk
+3179,65,0,Yes,65,1,103.15,5.0,16.65,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.6220870515704802,1,High Risk
+561,34,0,No,5,0,53.85,22.0,24.32,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,Offer E,1,0.5552232887397864,1,Medium Risk
+2414,51,0,No,26,0,,11.0,29.72,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.29917130920215323,0,Low Risk
+4771,29,0,No,43,0,85.1,53.0,2.49,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No,One Year,No,Credit Card,,0,0.37396840456268937,0,Medium Risk
+6179,53,0,Yes,72,7,82.65,11.0,17.28,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.04001140580795174,0,Low Risk
+4478,45,0,No,67,0,19.45,,9.05,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer A,0,0.056409511732661614,0,Low Risk
+2312,56,0,No,47,0,74.05,3.0,45.67,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.10680403859800792,0,Low Risk
+6464,65,0,No,22,0,96.7,8.0,40.18,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.8293255601890073,1,High Risk
+4098,34,0,No,12,0,78.3,25.0,35.8,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.6525724683258309,1,High Risk
+1598,62,1,No,61,0,25.0,,32.05,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,Offer B,0,0.04959368027074099,0,Low Risk
+134,45,0,No,1,0,85.55,4.0,33.34,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.9144180394037994,1,High Risk
+3367,27,0,No,25,0,105.5,48.0,10.4,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.575652271769587,1,Medium Risk
+3295,46,0,No,10,0,29.5,30.0,,No,,Yes,DSL,No,No,Yes,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer D,1,0.45107921380933713,0,Medium Risk
+1506,36,3,No,23,0,40.1,26.0,,No,,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,,0,0.05737600296202423,0,Low Risk
+226,52,0,No,37,0,91.2,30.0,11.73,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,0,0.4863836876926076,0,Medium Risk
+2217,57,1,Yes,60,1,103.75,19.0,2.83,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.3796023599578659,0,Medium Risk
+4167,33,0,Yes,56,10,98.0,11.0,37.5,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.22090178669402774,0,Low Risk
+1294,63,0,No,4,0,86.05,20.0,44.36,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.8210367957549097,1,High Risk
+1917,60,0,No,24,0,85.95,24.0,9.53,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.607176353716506,1,High Risk
+2103,43,2,Yes,71,4,99.0,17.0,15.73,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,No,No,Yes,Two Year,Yes,Credit Card,Offer A,0,0.026701821047105844,0,Low Risk
+910,70,0,Yes,44,4,85.15,6.0,44.44,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.09776769120301122,0,Low Risk
+1367,31,0,No,27,0,20.1,,33.4,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.10080233275806216,0,Low Risk
+4861,37,0,No,72,0,86.6,13.0,8.29,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.1274970920124361,0,Low Risk
+5327,62,0,No,22,0,19.6,,20.46,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.03738355456096563,0,Low Risk
+4000,73,0,No,37,0,101.1,19.0,38.06,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.876505648367798,1,High Risk
+990,57,0,Yes,49,6,40.65,11.0,,No,,Yes,Cable,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.3372524553779221,0,Medium Risk
+6286,28,0,No,26,0,20.65,,31.53,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer C,0,0.052901389104285296,0,Low Risk
+5396,23,1,Yes,11,1,50.55,41.0,,No,,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.4585396340055666,0,Medium Risk
+5790,61,0,No,4,0,79.0,27.0,27.57,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8883327936733811,1,High Risk
+3137,75,0,No,38,0,99.55,2.0,47.39,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.7348868675997674,1,High Risk
+3058,66,0,Yes,42,3,95.55,12.0,22.89,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.7571361741209204,1,High Risk
+4223,44,0,No,24,0,96.0,2.0,24.76,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6140784829289762,1,High Risk
+4933,24,0,No,6,0,20.6,,12.17,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer E,0,0.1430536069971681,0,Low Risk
+3768,35,0,No,4,0,20.35,,37.66,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,1,0.3125160308457293,0,Medium Risk
+5678,53,0,No,64,0,24.7,,4.03,Yes,Yes,No,,,,,,,,,,One Year,No,Mailed Check,Offer B,0,0.14434828690256118,0,Low Risk
+937,62,0,Yes,10,6,67.8,7.0,37.08,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4481624359830131,0,Medium Risk
+3067,60,0,No,31,0,55.25,6.0,1.53,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.42694620254388854,0,Medium Risk
+2880,30,0,No,9,0,99.3,69.0,4.81,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer E,0,0.7493567499634374,1,High Risk
+6313,50,2,Yes,68,10,25.4,,19.09,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.0020312955909129893,0,Low Risk
+4715,35,0,No,24,0,98.75,18.0,37.69,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.771325148657303,1,High Risk
+3870,49,0,No,68,0,20.05,,2.83,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.03554320324226644,0,Low Risk
+1591,20,0,Yes,23,5,73.65,48.0,14.53,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.3855498571065544,0,Medium Risk
+2993,68,0,No,56,0,104.75,4.0,34.58,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,,1,0.38583353416313887,0,Medium Risk
+1737,34,1,Yes,55,6,100.9,18.0,41.18,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,Offer B,0,0.10578720669395483,0,Low Risk
+5240,23,3,Yes,28,0,104.8,47.0,4.89,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.3996065322940053,0,Medium Risk
+5637,69,0,No,13,0,100.8,28.0,7.22,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.844039965157273,1,High Risk
+279,47,0,Yes,62,1,60.15,15.0,33.7,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,Offer B,0,0.17701445203209093,0,Low Risk
+1054,75,0,Yes,20,7,94.55,10.0,5.31,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.514804343581572,1,Medium Risk
+151,45,2,Yes,71,1,20.1,,31.03,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.024108761584350488,0,Low Risk
+3051,19,0,Yes,44,1,70.95,48.0,29.61,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.35014793714155307,0,Medium Risk
+3621,75,0,Yes,72,2,115.75,24.0,44.89,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Two Year,Yes,Credit Card,Offer A,0,0.09495864414055756,0,Low Risk
+5972,26,0,No,18,0,90.7,26.0,28.59,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.704298931527758,1,High Risk
+2609,39,3,Yes,60,2,49.75,51.0,,No,,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.27836698740016685,0,Low Risk
+5688,53,0,Yes,49,2,95.6,9.0,49.63,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7090770162071421,1,High Risk
+3266,41,0,Yes,2,3,44.6,16.0,30.19,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.7965389891871216,1,High Risk
+5793,53,0,No,68,0,44.95,13.0,,No,,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.4177806771194298,0,Medium Risk
+4735,28,0,No,26,0,45.45,42.0,29.07,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.5112039794537302,1,Medium Risk
+5358,27,0,No,16,0,94.25,59.0,20.44,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.7489615568475495,1,High Risk
+3362,59,0,No,31,0,20.45,,34.57,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.036111196817189446,0,Low Risk
+4328,38,3,Yes,53,8,19.4,,25.32,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.008349694530182855,0,Low Risk
+5365,63,0,No,14,0,31.1,12.0,,No,,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,0,0.649961235854078,1,High Risk
+2391,73,0,No,2,0,30.4,13.0,,No,,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9416979445484938,1,High Risk
+4975,67,0,No,69,0,,,20.62,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.09024117557268406,0,Low Risk
+5252,21,1,Yes,19,4,24.85,85.0,,No,,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.21340957246908934,0,Low Risk
+3544,22,1,Yes,62,8,105.5,52.0,14.75,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.20280099644645516,0,Low Risk
+5450,43,3,Yes,14,8,80.45,21.0,9.77,Yes,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,Offer D,0,0.2228904611367032,0,Low Risk
+4431,50,0,No,11,0,25.2,,1.87,Yes,Yes,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.2118472916679788,0,Low Risk
+4738,59,2,Yes,66,10,65.85,30.0,26.91,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,Offer A,0,0.022354215832006315,0,Low Risk
+3750,29,0,No,62,0,19.85,,14.17,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.03639290354846436,0,Low Risk
+2570,55,0,No,72,0,84.3,27.0,29.03,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer A,0,0.09429994956212726,0,Low Risk
+4938,38,3,Yes,55,10,90.4,56.0,22.56,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.17555365073650162,0,Low Risk
+4310,68,0,No,3,0,105.0,18.0,35.43,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9568226309743957,1,High Risk
+5301,29,1,Yes,18,3,83.25,59.0,10.29,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.25439534180338114,0,Low Risk
+5533,32,3,No,26,0,39.95,58.0,,No,,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.16103989979316913,0,Low Risk
+1190,31,0,No,21,0,20.5,,32.89,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.19999945508049208,0,Low Risk
+2849,49,0,No,23,0,104.05,2.0,16.28,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer D,1,0.6026371977759941,1,High Risk
+2153,64,0,No,50,0,93.5,21.0,40.83,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.4933389427059067,0,Medium Risk
+2286,26,0,No,37,0,64.75,71.0,3.27,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.5725421356092077,1,Medium Risk
+1786,39,0,No,13,0,19.45,,22.31,Yes,No,No,,,,,,,,,,One Year,No,Mailed Check,Offer D,0,0.09253776942302533,0,Low Risk
+2972,57,0,Yes,43,3,56.15,20.0,37.25,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.42856569470210104,0,Medium Risk
+5628,71,0,No,5,0,69.05,11.0,30.05,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.7947625608693275,1,High Risk
+5737,75,0,No,16,0,59.4,16.0,36.83,Yes,No,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.5998145901408132,1,Medium Risk
+581,46,0,Yes,61,1,96.5,2.0,21.96,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.6541593375336658,1,High Risk
+4897,67,0,No,28,0,64.45,23.0,12.72,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.10439527207066955,0,Low Risk
+2148,33,0,Yes,32,3,98.85,9.0,47.89,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.6138295854225166,1,High Risk
+6201,47,0,No,18,0,88.35,23.0,12.67,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.698359931521097,1,High Risk
+782,49,0,No,6,0,49.65,22.0,48.89,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.6613108864457715,1,High Risk
+2544,61,0,No,67,0,53.4,11.0,,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.41321726421910365,0,Medium Risk
+4134,42,0,Yes,22,6,95.9,29.0,35.62,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.413188577249626,0,Medium Risk
+4364,66,0,Yes,15,5,94.65,19.0,37.84,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer D,0,0.2092304693111579,0,Low Risk
+952,44,0,No,1,0,89.1,3.0,16.06,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9539449635236792,1,High Risk
+1945,25,0,No,70,0,40.05,59.0,,No,,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Two Year,Yes,Mailed Check,Offer A,0,0.13469101490733248,0,Low Risk
+2613,62,0,No,19,0,61.55,8.0,46.49,Yes,No,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4479390975496547,0,Medium Risk
+6107,19,0,Yes,34,1,62.65,71.0,41.32,Yes,Yes,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.4355706486176812,0,Medium Risk
+1983,41,3,Yes,51,9,93.8,75.0,27.23,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.1569683467068902,0,Low Risk
+5952,26,2,No,48,0,45.55,48.0,,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,Offer B,0,0.3720816876964755,0,Medium Risk
+5052,50,2,Yes,22,1,75.0,19.0,38.82,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.4768258618114723,0,Medium Risk
+4647,56,0,No,49,0,98.7,27.0,45.46,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer B,0,0.6821083932485643,1,High Risk
+375,48,0,No,8,0,49.85,25.0,37.79,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.5803695353655464,1,Medium Risk
+181,80,0,No,71,0,105.75,9.0,6.1,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,Yes,One Year,No,Bank Withdrawal,,0,0.40145391616314025,0,Medium Risk
+3001,55,0,No,8,0,30.45,4.0,,No,,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.6176866140476208,1,High Risk
+3157,69,0,No,20,0,79.15,5.0,11.82,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7557166779248478,1,High Risk
+927,75,0,Yes,30,6,105.7,22.0,33.48,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.506339724806303,1,Medium Risk
+3997,32,0,No,3,0,100.95,30.0,11.94,Yes,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9496723631719269,1,High Risk
+5290,20,1,No,66,0,90.95,51.0,27.09,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,Offer A,0,0.10846452306081417,0,Low Risk
+2915,25,0,No,26,0,35.75,47.0,,No,,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.42866078764467264,0,Medium Risk
+1754,52,2,Yes,46,9,56.9,15.0,38.45,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,One Year,No,Credit Card,Offer B,0,0.050482038307437284,0,Low Risk
+2346,59,0,Yes,71,10,24.45,,33.0,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.02778768233900907,0,Low Risk
+1199,79,0,Yes,20,1,90.8,17.0,4.77,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.8224899506265494,1,High Risk
+3695,67,0,Yes,28,1,101.3,20.0,16.43,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Credit Card,Offer C,1,0.7556376098118799,1,High Risk
+4397,46,0,No,5,0,20.35,,31.78,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.25003643888250116,0,Low Risk
+429,45,0,Yes,48,3,69.55,15.0,17.03,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.20716917220885228,0,Low Risk
+4770,68,0,No,13,0,90.5,4.0,26.11,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8763073520499964,1,High Risk
+3317,59,0,Yes,51,7,25.5,,20.47,Yes,Yes,No,,,,,,,,,,Two Year,No,Mailed Check,,0,0.020432705178741538,0,Low Risk
+3772,29,0,No,41,0,99.65,59.0,21.64,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer B,0,0.19563559991933258,0,Low Risk
+1690,26,0,Yes,4,4,48.55,76.0,,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6170797827036133,1,High Risk
+6450,26,0,Yes,66,9,58.2,59.0,24.27,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,,0,0.03814900909165625,0,Low Risk
+721,67,0,No,15,0,89.85,6.0,4.28,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.7977368178746062,1,High Risk
+5890,32,0,Yes,69,4,95.65,11.0,46.87,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.33274870478922547,0,Medium Risk
+5254,58,1,Yes,16,6,73.25,20.0,40.03,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.2644038364684262,0,Low Risk
+6315,37,0,Yes,6,4,25.1,,47.29,Yes,Yes,No,,,,,,,,,,One Year,No,Mailed Check,,0,0.11000576971492869,0,Low Risk
+3866,24,0,Yes,71,2,24.45,,33.61,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.034883723021513914,0,Low Risk
+4921,53,0,Yes,18,1,49.55,26.0,19.05,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.6539399374217686,1,High Risk
+3712,60,0,No,6,0,49.5,22.0,26.76,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.5552339399317748,1,Medium Risk
+1743,38,0,No,10,0,51.65,23.0,49.04,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.5229208771082378,1,Medium Risk
+2846,25,0,Yes,72,0,105.5,59.0,21.96,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.3184179859300195,0,Medium Risk
+5373,59,0,No,30,0,79.3,18.0,6.74,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer C,0,0.31094410838964837,0,Medium Risk
+1349,23,0,Yes,72,1,115.55,59.0,1.67,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.2161470100930792,0,Low Risk
+3999,63,0,No,17,0,25.65,11.0,,No,,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,,0,0.6407548910597689,1,High Risk
+3968,45,0,No,32,0,74.75,5.0,33.45,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,Offer C,0,0.2666571225539709,0,Low Risk
+1605,26,0,No,33,0,90.65,85.0,16.76,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.616319798229532,1,High Risk
+772,63,0,No,7,0,73.6,28.0,38.07,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7317163183749299,1,High Risk
+5289,62,2,Yes,72,4,84.5,20.0,44.0,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.07956340575132119,0,Low Risk
+2214,40,2,Yes,44,4,94.4,27.0,24.71,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,No,One Year,No,Bank Withdrawal,Offer B,0,0.12622301625584606,0,Low Risk
+5334,19,0,No,55,0,84.25,48.0,44.85,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,One Year,Yes,Credit Card,,0,0.20176158616996923,0,Low Risk
+6391,22,2,Yes,50,10,44.8,41.0,36.61,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.06780573634848007,0,Low Risk
+3029,69,0,Yes,64,9,97.0,11.0,3.76,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,No,Yes,No,Yes,One Year,No,Bank Withdrawal,,0,0.17105155211708892,0,Low Risk
+4615,31,8,Yes,54,2,79.95,75.0,46.7,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.08131650666111312,0,Low Risk
+3163,75,0,No,8,0,100.6,29.0,40.45,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9026772335482195,1,High Risk
+748,59,0,No,1,0,74.95,26.0,30.07,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9655604342258735,1,High Risk
+1344,29,0,No,3,0,35.45,85.0,,No,,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.7232889716986041,1,High Risk
+2823,37,5,Yes,27,5,49.85,30.0,19.32,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer C,0,0.15229961678139275,0,Low Risk
+5821,56,1,No,12,0,84.05,19.0,17.85,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.700184777909527,1,High Risk
+1129,77,0,No,18,0,20.35,,37.53,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,Offer D,0,0.16506804531663663,0,Low Risk
+3291,20,1,Yes,31,6,54.35,71.0,25.04,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.15508641606526552,0,Low Risk
+3792,56,0,Yes,65,5,99.05,13.0,13.2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,,0,0.08487604167636287,0,Low Risk
+5057,41,0,Yes,53,3,74.1,4.0,37.14,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer B,0,0.21228397158933307,0,Low Risk
+3559,20,0,No,20,0,88.7,59.0,5.54,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7162336920460458,1,High Risk
+6216,53,0,Yes,1,1,76.2,14.0,35.15,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,1,0.9221007286657446,1,High Risk
+4503,77,0,No,46,0,85.0,29.0,36.78,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.6471872264601607,1,High Risk
+4352,61,1,Yes,49,7,97.95,18.0,16.02,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.12152912800389565,0,Low Risk
+2666,27,0,Yes,20,8,20.65,,46.47,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.03137543423355192,0,Low Risk
+598,23,0,No,7,0,74.65,71.0,21.58,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,Yes,No,Month-to-Month,No,Mailed Check,Offer E,1,0.7416851065094441,1,High Risk
+1485,31,0,Yes,28,10,76.55,5.0,21.91,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.3369004279911199,0,Medium Risk
+5096,40,0,No,10,0,20.35,,17.4,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.041232793422009584,0,Low Risk
+2577,64,0,No,66,0,68.75,10.0,20.52,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.08014367552427258,0,Low Risk
+2355,77,0,No,17,0,101.8,25.0,17.26,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,No,Two Year,Yes,Bank Withdrawal,,0,0.19756146443606867,0,Low Risk
+1347,52,0,No,25,0,70.95,18.0,24.91,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,1,0.6034411507240182,1,High Risk
+3601,52,0,No,12,0,89.15,6.0,34.73,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.8130254270058312,1,High Risk
+5620,62,0,No,22,0,55.1,15.0,37.11,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Mailed Check,,0,0.4353656620500026,0,Medium Risk
+6183,70,0,No,44,0,89.15,19.0,35.39,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,One Year,No,Credit Card,Offer B,0,0.32064404772896876,0,Medium Risk
+4796,45,0,No,72,0,104.95,18.0,33.93,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.5244846876742605,1,Medium Risk
+4676,46,2,Yes,7,4,49.65,28.0,,No,,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.08223290203132384,0,Low Risk
+3150,72,0,No,2,0,44.7,20.0,41.43,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9641267596650761,1,High Risk
+3746,69,0,No,18,0,49.85,23.0,41.13,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Credit Card,,0,0.18499233434749837,0,Low Risk
+6385,65,0,Yes,59,4,50.25,23.0,,No,,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5239585194804385,1,Medium Risk
+2735,23,3,Yes,69,1,24.45,,33.09,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.030867890823019644,0,Low Risk
+1757,35,1,Yes,33,0,19.8,,12.51,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.015374806574377375,0,Low Risk
+2907,60,2,Yes,38,1,19.6,,36.72,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.03698732852130063,0,Low Risk
+4375,56,0,No,2,0,19.3,,15.79,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,1,0.33287631145479935,0,Medium Risk
+2656,42,0,Yes,13,1,76.2,29.0,11.79,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5699231190810851,1,Medium Risk
+5779,44,0,No,57,0,41.1,24.0,,No,,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,,0,0.15086499697872188,0,Low Risk
+4406,47,0,No,5,0,49.2,18.0,7.31,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.7205737430651276,1,High Risk
+3943,40,0,No,72,0,107.5,21.0,9.47,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,,0,0.23615639027575128,0,Low Risk
+2290,29,2,Yes,43,8,99.3,59.0,5.25,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.21102480938966414,0,Low Risk
+1480,51,0,Yes,23,2,86.8,22.0,16.63,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,No,One Year,No,Credit Card,Offer D,0,0.193884107298422,0,Low Risk
+4800,20,0,Yes,65,7,105.5,26.0,34.14,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.42506349509604757,0,Medium Risk
+2298,78,0,Yes,47,1,67.45,24.0,46.77,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Two Year,Yes,Credit Card,,0,0.1718583298952967,0,Low Risk
+5906,40,0,No,68,0,76.75,29.0,20.29,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,One Year,No,Credit Card,Offer A,0,0.2565422122376782,0,Low Risk
+2818,19,1,Yes,48,6,69.7,27.0,44.66,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,One Year,No,Bank Withdrawal,Offer B,0,0.032291811195931885,0,Low Risk
+4875,37,0,No,39,0,40.3,19.0,,No,,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.17348558035686512,0,Low Risk
+4136,77,0,No,5,0,28.45,26.0,,No,,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.7698653740071876,1,High Risk
+1363,55,0,Yes,67,1,25.25,,35.34,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.11526683823017866,0,Low Risk
+4170,21,0,Yes,54,3,69.95,76.0,28.17,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.08330576846852028,0,Low Risk
+2058,30,0,No,60,0,104.95,48.0,22.88,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.511961188742206,1,Medium Risk
+4168,53,3,Yes,72,4,25.55,,36.82,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.005129506812585341,0,Low Risk
+3826,54,0,Yes,72,3,19.3,,2.61,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.029707418199031554,0,Low Risk
+710,35,0,Yes,61,2,101.05,21.0,17.49,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.25988684632552184,0,Low Risk
+1773,60,0,No,35,0,89.2,26.0,49.61,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.3123960861171939,0,Medium Risk
+1327,78,0,No,41,0,104.4,15.0,6.33,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.8688711588662251,1,High Risk
+362,34,1,Yes,5,1,25.9,,40.05,Yes,Yes,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.40164432217252527,0,Medium Risk
+2335,78,0,No,35,0,99.05,7.0,31.64,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,0,0.8101327129549418,1,High Risk
+1443,29,0,No,33,0,80.1,48.0,25.71,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.18482094173578686,0,Low Risk
+6016,60,0,No,15,0,55.7,8.0,40.66,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,1,0.5406097308145144,1,Medium Risk
+1507,38,0,No,55,0,50.55,17.0,3.62,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.4679438261109801,0,Medium Risk
+5524,24,0,Yes,67,5,75.5,82.0,1.36,Yes,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.09174773184252356,0,Low Risk
+1293,35,0,No,48,0,,12.0,10.5,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5954685712640463,1,Medium Risk
+2237,62,2,Yes,35,5,19.7,,15.41,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0027680601048079476,0,Low Risk
+5864,51,0,No,64,0,115.1,4.0,44.31,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.2907248532385305,0,Low Risk
+368,23,0,Yes,22,4,83.3,53.0,4.01,Yes,No,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.4856753309604714,0,Medium Risk
+6290,25,3,Yes,68,8,80.35,41.0,24.08,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Two Year,No,Credit Card,Offer A,0,0.0260441890067063,0,Low Risk
+1613,24,0,No,15,0,95.7,47.0,9.97,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6562735107059244,1,High Risk
+5039,54,0,No,48,0,24.0,,30.82,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer B,0,0.05184305651008207,0,Low Risk
+6178,37,1,Yes,35,5,19.85,,9.04,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.004738894506418571,0,Low Risk
+1504,44,0,No,48,0,25.05,,34.96,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,Offer B,0,0.07632395255204451,0,Low Risk
+1583,72,0,No,40,0,55.8,6.0,,No,,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.6159696983421327,1,High Risk
+5065,80,0,Yes,56,10,95.65,27.0,11.55,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,Offer B,0,0.17194549957146882,0,Low Risk
+4063,48,0,No,35,0,59.6,16.0,20.61,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.4271912441538027,0,Medium Risk
+5579,64,1,Yes,42,10,69.4,17.0,16.67,Yes,Yes,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.21979762550399234,0,Low Risk
+2229,64,0,No,1,0,69.35,27.0,45.86,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9559277780866228,1,High Risk
+842,62,3,Yes,29,6,55.35,57.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.06015210665941677,0,Low Risk
+4395,64,0,No,18,0,60.6,9.0,10.97,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4969998827435436,0,Medium Risk
+5350,62,0,Yes,6,1,19.5,,31.7,Yes,No,No,,,,,,,,,,Month-to-Month,No,Bank Withdrawal,,1,0.4701149239141742,0,Medium Risk
+3818,40,2,Yes,50,9,20.35,,26.98,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,,0,0.00738182222739341,0,Low Risk
+6137,74,0,No,2,0,79.75,23.0,39.63,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9706042176537947,1,High Risk
+3893,54,2,Yes,58,2,94.35,23.0,5.01,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.07658745584382806,0,Low Risk
+3476,58,0,Yes,52,4,35.45,8.0,,No,,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,One Year,No,Credit Card,,0,0.08410577787929459,0,Low Risk
+199,62,3,Yes,39,9,100.0,75.0,17.29,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer C,0,0.11694714470069462,0,Low Risk
+6578,77,0,Yes,53,1,94.0,25.0,47.64,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.3957241537593826,0,Medium Risk
+4053,40,0,No,46,0,38.25,2.0,,No,,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,Offer B,0,0.08388050630432416,0,Low Risk
+2022,24,0,No,10,0,20.25,,13.16,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.04366217633221494,0,Low Risk
+6531,32,3,Yes,20,7,96.8,23.0,42.06,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Credit Card,Offer D,0,0.22772080738643452,0,Low Risk
+343,34,0,Yes,72,9,109.55,2.0,44.2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.1449313688123429,0,Low Risk
+4138,43,0,Yes,66,5,96.6,20.0,36.55,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Credit Card,,0,0.07464466635665135,0,Low Risk
+5948,70,0,Yes,72,7,105.75,16.0,18.15,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Credit Card,Offer A,0,0.24109051773816592,0,Low Risk
+6019,46,0,No,69,0,82.45,22.0,25.73,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.07788966305623927,0,Low Risk
+4315,27,0,No,1,0,69.6,58.0,46.21,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9501550180373403,1,High Risk
+380,53,0,Yes,14,1,46.35,12.0,,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.6776959936522846,1,High Risk
+5827,66,0,No,8,0,81.25,26.0,5.02,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8734251689584716,1,High Risk
+1802,47,2,Yes,23,4,25.1,,35.86,Yes,Yes,No,,,,,,,,,,Two Year,No,Mailed Check,,0,0.01716868665290352,0,Low Risk
+5217,60,0,No,21,0,68.65,11.0,30.59,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.6314275679048158,1,High Risk
+837,64,3,Yes,72,9,20.7,,6.9,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.0046893973612420125,0,Low Risk
+480,50,0,Yes,51,2,69.75,14.0,17.95,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.18941575098131247,0,Low Risk
+517,43,2,No,3,0,55.1,16.0,26.04,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer E,1,0.7798893167061968,1,High Risk
+3895,27,0,No,13,0,84.6,42.0,35.96,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.8009672474832933,1,High Risk
+6463,44,0,Yes,46,6,20.2,,4.72,Yes,No,No,,,,,,,,,,One Year,Yes,Bank Withdrawal,,0,0.057939680614740384,0,Low Risk
+5019,71,0,No,3,0,76.05,28.0,30.25,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9678066466746799,1,High Risk
+3616,53,0,No,27,0,53.45,28.0,15.09,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.4110202282168652,0,Medium Risk
+179,61,0,No,5,0,96.1,11.0,31.09,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7575816374798477,1,High Risk
+2315,28,3,Yes,64,3,49.85,59.0,,No,,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.05853233109230824,0,Low Risk
+6044,46,0,No,29,0,19.35,,2.76,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.21205629836226758,0,Low Risk
+612,67,0,Yes,58,1,98.7,5.0,3.18,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.8499537823903546,1,High Risk
+3300,47,2,Yes,30,1,66.3,17.0,16.48,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.35586453776754545,0,Medium Risk
+3303,39,1,Yes,9,10,75.85,20.0,8.1,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.32043167837168746,0,Medium Risk
+154,45,3,Yes,67,8,105.65,22.0,17.79,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.05943933709171399,0,Low Risk
+6110,76,0,Yes,4,1,74.95,27.0,28.11,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.8812271306803948,1,High Risk
+739,33,0,No,57,0,53.35,28.0,,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,No,Two Year,No,Credit Card,,0,0.10866266657002714,0,Low Risk
+3932,54,0,No,19,0,56.1,27.0,36.88,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4441910599895964,0,Medium Risk
+3934,59,0,Yes,19,1,83.65,25.0,14.09,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8290347764725873,1,High Risk
+3756,55,0,No,5,0,39.5,2.0,,No,,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.773014779795619,1,High Risk
+5403,42,1,Yes,4,1,69.55,23.0,37.23,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.6450446574815566,1,High Risk
+4552,60,2,Yes,67,6,24.65,,14.41,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.004277948194593704,0,Low Risk
+860,45,0,Yes,53,1,98.4,24.0,41.74,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.7313225153793087,1,High Risk
+779,60,0,Yes,23,1,48.35,12.0,5.8,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,Yes,Credit Card,,1,0.24720545433131116,0,Low Risk
+5108,42,1,Yes,14,1,65.45,19.0,45.6,Yes,No,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.44879115375269,0,Medium Risk
+3684,67,1,Yes,66,6,104.9,30.0,39.38,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.09718025422676556,0,Low Risk
+2176,70,0,No,59,0,99.5,9.0,24.27,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.46943555724524194,0,Medium Risk
+289,58,0,No,13,0,35.4,13.0,,No,,Yes,Cable,No,No,Yes,Yes,No,No,No,No,Two Year,No,Credit Card,Offer D,0,0.15086772251804517,0,Low Risk
+4090,42,0,Yes,43,1,66.25,17.0,26.1,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.39927425632748365,0,Medium Risk
+396,47,0,No,13,0,81.9,19.0,34.18,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.7407450524894322,1,High Risk
+458,32,0,No,34,0,65.0,27.0,45.28,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Credit Card,Offer C,0,0.4789582063013098,0,Medium Risk
+4754,65,0,No,72,0,108.1,20.0,26.87,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.23718540280990827,0,Low Risk
+4891,52,0,No,9,0,75.85,11.0,7.32,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.8161673964599764,1,High Risk
+6233,25,0,No,15,0,59.45,48.0,36.34,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.5508303409347024,1,Medium Risk
+1396,57,0,Yes,72,2,49.2,15.0,,No,,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.12135634503211983,0,Low Risk
+2796,46,0,Yes,70,8,49.85,26.0,,No,,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.06697835929172999,0,Low Risk
+4313,78,0,Yes,7,0,94.7,17.0,9.7,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.7880559842423712,1,High Risk
+1819,53,0,No,19,0,45.0,5.0,29.52,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5976028482392829,1,Medium Risk
+4262,39,0,Yes,3,1,74.75,13.0,35.18,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.9395347724271023,1,High Risk
+1079,56,0,No,23,0,20.45,,46.17,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.04228730921875012,0,Low Risk
+6279,33,0,No,18,0,90.1,19.0,34.21,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.64536847480614,1,High Risk
+4753,54,0,No,25,0,79.85,12.0,26.81,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.5984889879878548,1,Medium Risk
+4182,50,0,No,69,0,104.05,24.0,2.52,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,1,0.48229337896352936,0,Medium Risk
+3617,22,0,No,53,0,100.3,73.0,8.33,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Mailed Check,Offer B,0,0.5202469629607214,1,Medium Risk
+5030,20,0,No,1,0,79.6,52.0,21.72,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9680890586790518,1,High Risk
+5622,61,3,Yes,72,8,74.35,53.0,17.21,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,Offer A,0,0.02491887814049775,0,Low Risk
+3605,69,0,Yes,69,1,108.4,4.0,48.88,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,Offer A,1,0.33228819106243995,0,Medium Risk
+1601,45,0,Yes,31,1,19.55,,30.07,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,1,0.31809011183657837,0,Medium Risk
+5752,25,0,Yes,42,1,94.2,27.0,6.84,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8212627572060869,1,High Risk
+798,53,0,Yes,72,4,91.15,26.0,2.95,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.03516842157444363,0,Low Risk
+4381,19,0,Yes,33,3,61.05,52.0,15.89,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,Offer C,0,0.05826316175056984,0,Low Risk
+3459,51,0,No,64,0,100.3,2.0,9.95,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.4282679605431921,0,Medium Risk
+1703,45,3,Yes,10,8,88.85,51.0,32.76,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.2694447519292954,0,Low Risk
+4978,31,0,Yes,19,1,73.2,22.0,25.75,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7031739358539809,1,High Risk
+2890,61,1,No,30,0,44.5,17.0,,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,0,0.4967226487547233,0,Medium Risk
+4623,27,0,No,47,0,20.45,,6.61,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.03298588660474393,0,Low Risk
+1695,26,2,Yes,36,8,20.25,,42.51,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer C,0,0.004708726021084607,0,Low Risk
+5196,43,1,No,19,0,106.6,19.0,28.35,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.44787406285055037,0,Medium Risk
+1646,43,0,No,4,0,70.2,15.0,13.02,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.868273117825802,1,High Risk
+1180,20,0,No,22,0,65.05,47.0,43.78,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer D,0,0.3712341422717182,0,Medium Risk
+354,39,1,Yes,71,9,23.9,,18.99,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.0054214327902962645,0,Low Risk
+5034,61,0,No,12,0,85.15,19.0,15.97,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,One Year,Yes,Credit Card,Offer D,0,0.2485644260032368,0,Low Risk
+6074,28,0,Yes,13,1,54.45,71.0,,No,,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6197296485074707,1,High Risk
+2789,23,2,Yes,69,8,20.55,,26.44,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer A,0,0.017563413165219886,0,Low Risk
+6191,52,0,Yes,1,0,74.7,8.0,21.91,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9464171782068005,1,High Risk
+5191,32,0,No,2,0,75.55,28.0,41.37,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9522658819813665,1,High Risk
+357,28,2,Yes,20,5,95.5,48.0,38.71,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.252587513819994,0,Low Risk
+4184,37,0,No,29,0,78.9,7.0,44.33,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.745363919319585,1,High Risk
+483,31,2,Yes,64,0,86.8,12.0,27.74,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.33422058897787543,0,Medium Risk
+5763,60,2,Yes,57,8,20.75,,29.64,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0030775839950652074,0,Low Risk
+2932,58,1,No,54,0,105.85,11.0,20.93,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.2843537248163368,0,Low Risk
+2062,61,0,Yes,46,1,64.2,6.0,37.02,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,,0,0.20235833598540912,0,Low Risk
+1491,33,1,Yes,1,1,19.9,,7.49,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,1,0.7088492678970063,1,High Risk
+1914,54,2,Yes,45,10,50.9,18.0,,No,,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.19915231942328782,0,Low Risk
+1481,25,0,Yes,65,1,71.0,51.0,1.29,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.15576245229965166,0,Low Risk
+2469,23,0,Yes,64,1,20.2,,36.24,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.051834024073966624,0,Low Risk
+3246,39,0,Yes,40,1,19.1,,31.37,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.05168512626993539,0,Low Risk
+6078,57,0,No,7,0,70.75,6.0,23.35,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.6256781802078798,1,High Risk
+2800,61,0,No,1,0,50.75,3.0,43.03,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.931582398039198,1,High Risk
+1335,57,2,Yes,30,1,51.2,12.0,,No,,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,1,0.38151836208575657,0,Medium Risk
+4367,19,2,No,27,0,56.2,59.0,2.63,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,No,One Year,No,Credit Card,Offer C,0,0.13773665770909194,0,Low Risk
+5989,37,2,Yes,44,1,20.6,,34.94,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.07761937120732545,0,Low Risk
+1153,59,0,Yes,72,4,80.45,27.0,6.23,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,,0,0.08736010890834535,0,Low Risk
+3070,43,0,No,21,0,19.6,,16.81,Yes,No,No,,,,,,,,,,Two Year,No,Mailed Check,,0,0.047740230351227896,0,Low Risk
+284,79,0,Yes,54,2,115.6,12.0,43.71,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.3041767195320745,0,Medium Risk
+4628,23,1,Yes,15,8,101.9,30.0,2.12,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,No,One Year,No,Bank Withdrawal,,0,0.17540582304066102,0,Low Risk
+4762,23,0,No,8,0,20.45,,35.21,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer E,0,0.39319729871639253,0,Medium Risk
+5063,48,0,No,11,0,76.5,4.0,15.6,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8151883168979446,1,High Risk
+1368,21,3,Yes,22,1,61.15,30.0,42.98,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer D,1,0.2840565583189131,0,Low Risk
+901,37,0,No,30,0,48.8,13.0,10.74,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer C,0,0.46714742933167014,0,Medium Risk
+4244,20,0,No,48,0,107.4,47.0,5.19,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7528047765722067,1,High Risk
+2495,28,1,Yes,72,10,117.6,48.0,47.02,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.034986645735381065,0,Low Risk
+2151,42,1,Yes,28,2,50.8,19.0,,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,One Year,No,Credit Card,Offer C,0,0.07040393546088859,0,Low Risk
+2717,30,0,Yes,70,9,88.0,51.0,9.28,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Two Year,Yes,Credit Card,,0,0.050647316919317724,0,Low Risk
+1253,27,2,Yes,23,1,25.6,,25.54,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.07403595172509694,0,Low Risk
+3101,22,0,No,1,0,20.5,,19.85,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,1,0.7675242681676863,1,High Risk
+4563,55,0,Yes,70,4,76.1,9.0,33.37,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,No,Two Year,No,Credit Card,Offer A,0,0.10306209087258099,0,Low Risk
+2587,25,0,No,72,0,116.45,51.0,48.52,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,Offer A,0,0.25441528798677,0,Low Risk
+227,56,2,Yes,28,6,70.4,24.0,12.94,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.06945700481908083,0,Low Risk
+2199,79,0,No,8,0,105.5,15.0,45.16,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9079944537462258,1,High Risk
+7,52,0,Yes,63,8,84.65,7.0,12.96,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No,Two Year,Yes,Credit Card,Offer B,0,0.07347494630237358,0,Low Risk
+3626,56,0,Yes,65,1,74.8,30.0,40.47,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,1,0.1324018774343248,0,Low Risk
+5458,51,0,No,22,0,43.75,16.0,,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer D,1,0.27220257917765456,0,Low Risk
+2257,27,0,Yes,57,2,57.5,69.0,,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,,0,0.13543784209471285,0,Low Risk
+6348,47,1,Yes,63,0,,,3.65,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.04821305446504521,0,Low Risk
+5757,63,0,Yes,61,6,103.3,22.0,18.03,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.272448538496577,0,Low Risk
+5593,48,2,No,66,0,79.5,23.0,12.48,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.07042686288839824,0,Low Risk
+805,45,0,No,67,0,26.1,,43.3,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.0663083196810006,0,Low Risk
+2297,20,0,Yes,55,3,77.75,53.0,23.45,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.48638351533131624,0,Medium Risk
+2653,22,0,No,16,0,20.0,,4.13,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.2601678000411433,0,Low Risk
+4577,34,0,No,50,0,90.1,22.0,15.37,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,No,No,Yes,One Year,Yes,Credit Card,,0,0.20492213077089222,0,Low Risk
+6462,56,0,No,1,0,69.9,12.0,45.5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9567858248214136,1,High Risk
+1195,26,3,Yes,2,1,104.4,53.0,11.51,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.7245766475284025,1,High Risk
+2893,61,0,No,18,0,77.8,26.0,19.93,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6629420219540971,1,High Risk
+4110,71,0,Yes,46,5,100.25,15.0,21.46,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,No,Yes,One Year,No,Bank Withdrawal,,0,0.23008074019747107,0,Low Risk
+6526,42,0,Yes,18,5,73.15,23.0,16.78,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5842186051845583,1,Medium Risk
+668,37,1,No,25,0,54.75,27.0,39.9,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,Offer C,0,0.12647178693970357,0,Low Risk
+2737,58,0,No,12,0,33.6,19.0,,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,One Year,Yes,Mailed Check,,0,0.22053573312239108,0,Low Risk
+4009,25,0,No,24,0,54.15,52.0,,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer C,1,0.4606404461169109,0,Medium Risk
+3244,47,0,No,18,0,56.25,17.0,33.8,Yes,Yes,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,0,0.4843017069460798,0,Medium Risk
+1261,72,0,Yes,48,10,70.65,21.0,12.6,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.12400270642748817,0,Low Risk
+898,71,0,Yes,40,8,55.8,18.0,28.56,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,One Year,No,Bank Withdrawal,,0,0.20670339258810522,0,Low Risk
+1248,47,0,Yes,7,3,34.2,17.0,,No,,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,0,0.39615355142443354,0,Medium Risk
+3816,45,0,No,29,0,68.85,19.0,1.02,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.39926935402459446,0,Medium Risk
+4703,57,0,Yes,30,1,19.55,,21.14,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.14804784181545017,0,Low Risk
+4318,27,3,Yes,28,9,19.55,,15.85,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,0,0.12145801813744328,0,Low Risk
+3694,63,0,Yes,9,1,85.35,5.0,14.21,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8753544994976766,1,High Risk
+3527,62,0,Yes,43,1,79.15,18.0,41.08,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.14684752077403762,0,Low Risk
+1192,47,0,No,58,0,79.8,14.0,22.71,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.557971735861601,1,Medium Risk
+6320,48,0,No,16,0,65.2,30.0,47.45,Yes,Yes,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.5665904500404654,1,Medium Risk
+2773,55,0,No,9,0,74.75,12.0,16.48,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8097433473005367,1,High Risk
+1965,21,0,No,1,0,89.9,53.0,32.85,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9677005548666477,1,High Risk
+4420,42,0,No,11,0,64.9,17.0,13.56,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.646962373351298,1,High Risk
+6166,36,3,No,71,0,24.35,,4.89,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.028926234974707803,0,Low Risk
+3589,58,0,No,5,0,74.65,16.0,32.81,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.8483423665592631,1,High Risk
+4082,46,0,No,71,0,53.95,20.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.06288215999496065,0,Low Risk
+5564,60,0,No,1,0,71.65,16.0,17.54,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9594512037743617,1,High Risk
+4733,73,0,Yes,21,4,71.7,18.0,30.3,Yes,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,No,No,One Year,No,Bank Withdrawal,,0,0.18835932102785968,0,Low Risk
+589,53,0,Yes,61,1,80.8,20.0,43.48,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.11484993594495994,0,Low Risk
+1863,47,3,Yes,69,9,86.9,53.0,26.35,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.010873314623900841,0,Low Risk
+6007,49,0,No,22,0,24.85,,22.97,Yes,Yes,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer D,0,0.25885441831219247,0,Low Risk
+1333,63,0,No,68,0,88.15,2.0,21.82,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.10657391087110091,0,Low Risk
+2882,50,4,Yes,60,9,74.35,57.0,38.44,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer B,0,0.16978890666033958,0,Low Risk
+5731,23,2,Yes,36,7,92.9,59.0,40.54,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.018851167555043458,0,Low Risk
+6064,45,2,No,50,0,70.35,20.0,36.11,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,No,Credit Card,Offer B,0,0.12750928766586955,0,Low Risk
+1842,50,0,No,17,0,55.85,21.0,24.31,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Yes,One Year,Yes,Mailed Check,,1,0.2312524833684032,0,Low Risk
+4840,48,0,No,55,0,45.05,5.0,33.6,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.20782761036855238,0,Low Risk
+2255,43,1,Yes,40,9,25.25,,27.95,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0043682923830316595,0,Low Risk
+350,26,0,No,58,0,70.1,69.0,47.47,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.1197587358841797,0,Low Risk
+5839,53,0,Yes,1,1,80.05,7.0,39.79,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.9547727103674767,1,High Risk
+4739,53,0,No,60,0,19.85,,31.12,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.04609529949551606,0,Low Risk
+6076,70,0,No,18,0,84.95,23.0,25.7,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,No,No,Two Year,Yes,Bank Withdrawal,,0,0.16798930101812554,0,Low Risk
+2891,65,0,Yes,62,7,89.8,3.0,27.49,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.4195089541075412,0,Medium Risk
+4338,32,0,Yes,9,1,29.95,9.0,,No,,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.7264966072752252,1,High Risk
+3954,32,0,Yes,72,2,89.7,18.0,11.57,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer A,0,0.2672352734757742,0,Low Risk
+6259,63,0,No,35,0,80.05,6.0,13.14,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer C,0,0.5835851050520495,1,Medium Risk
+3903,56,0,No,31,0,94.5,18.0,45.92,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.7411871551544418,1,High Risk
+3015,28,0,Yes,34,10,88.85,48.0,13.97,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,0,0.3405068638647669,0,Medium Risk
+4927,78,0,No,64,0,103.5,18.0,19.2,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.6841010639734174,1,High Risk
+696,62,0,Yes,38,8,20.4,,6.97,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer C,0,0.020478065693170268,0,Low Risk
+5421,26,0,Yes,72,7,97.7,58.0,28.59,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.12071368485252672,0,Low Risk
+2497,61,0,No,7,0,99.8,2.0,47.03,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8509308737707043,1,High Risk
+1963,32,2,Yes,37,3,75.1,23.0,1.12,Yes,No,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer C,0,0.10967922462469798,0,Low Risk
+3889,54,0,No,19,0,99.95,18.0,2.19,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7853624783086691,1,High Risk
+3876,45,2,Yes,26,9,19.15,,43.84,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.014970731094486404,0,Low Risk
+113,54,0,No,15,0,105.1,7.0,22.39,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.6430751570935505,1,High Risk
+6163,36,0,No,64,0,24.4,,15.93,Yes,Yes,No,,,,,,,,,,One Year,Yes,Bank Withdrawal,Offer B,0,0.1318616553713702,0,Low Risk
+3398,32,1,Yes,11,3,20.9,,2.52,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer D,0,0.017334318807448016,0,Low Risk
+715,27,0,Yes,17,1,49.8,52.0,,No,,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.5501595422119985,1,Medium Risk
+4670,53,0,No,29,0,25.1,22.0,,No,,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.4886458722099086,0,Medium Risk
+6314,52,0,Yes,30,1,94.4,6.0,28.85,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.7360311398249866,1,High Risk
+4219,26,0,No,1,0,74.9,76.0,1.84,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.958465397587604,1,High Risk
+6522,55,0,No,23,0,55.8,8.0,9.04,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,One Year,No,Bank Withdrawal,Offer D,0,0.16394415331804774,0,Low Risk
+2532,50,0,No,1,0,59.85,28.0,22.05,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.919196620722492,1,High Risk
+2600,37,0,No,36,0,20.35,,12.72,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,,0,0.040338447948800704,0,Low Risk
+3151,51,0,No,23,0,,11.0,33.44,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7113052884746552,1,High Risk
+1205,39,0,No,22,0,89.4,12.0,39.58,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7203900352107282,1,High Risk
+4877,63,0,No,31,0,20.1,,33.71,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer C,0,0.040270176856119756,0,Low Risk
+6347,37,0,No,13,0,81.15,4.0,3.84,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7999998616440894,1,High Risk
+2621,33,2,Yes,21,6,44.95,17.0,38.95,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.20527552180557038,0,Low Risk
+159,21,2,Yes,7,9,,47.0,,No,,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,Offer E,0,0.31131295276995496,0,Medium Risk
+3595,65,0,No,4,0,99.8,10.0,12.68,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.8219770864641738,1,High Risk
+20,26,0,Yes,13,1,94.1,52.0,43.56,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7229844620237527,1,High Risk
+2292,73,0,Yes,71,10,52.3,28.0,,No,,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,0,0.4409332724155709,0,Medium Risk
+5872,30,0,No,52,0,59.45,59.0,9.37,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5163737525852419,1,Medium Risk
+2433,32,3,Yes,66,3,25.7,,42.84,Yes,Yes,No,,,,,,,,,,One Year,Yes,Credit Card,Offer A,0,0.038553611764063786,0,Low Risk
+2487,49,0,Yes,7,9,69.95,3.0,35.42,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.43423033287787133,0,Medium Risk
+1100,51,0,No,42,0,54.75,13.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.2287396300372987,0,Low Risk
+1600,22,0,No,39,0,47.85,82.0,25.33,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,,0,0.21483967573266213,0,Low Risk
+701,43,3,Yes,24,5,19.7,,46.3,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.011031516798217605,0,Low Risk
+3144,51,0,Yes,35,1,62.15,30.0,24.53,Yes,No,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.2716598204676461,0,Low Risk
+3349,33,0,Yes,3,1,91.5,20.0,31.61,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,,1,0.895605264002723,1,High Risk
+4201,45,0,No,48,0,78.9,10.0,3.59,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.1466712111769922,0,Low Risk
+1142,31,0,Yes,51,3,106.8,21.0,29.4,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,Offer B,0,0.37302234410558377,0,Medium Risk
+312,61,3,No,23,0,49.45,53.0,25.85,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer D,0,0.13578671049459318,0,Low Risk
+4855,32,3,Yes,60,2,19.25,,23.68,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.022325045915241263,0,Low Risk
+1150,63,0,Yes,51,7,96.4,8.0,35.0,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.18142228574428756,0,Low Risk
+5740,20,1,Yes,29,5,20.65,,24.64,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Mailed Check,,0,0.16645559873565022,0,Low Risk
+1749,28,1,Yes,6,1,48.95,82.0,24.83,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,0,0.5714001690389866,1,Medium Risk
+5502,66,0,No,2,0,24.45,6.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.9077216015429125,1,High Risk
+1857,63,2,Yes,35,7,19.9,,24.23,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.02974713864326662,0,Low Risk
+5642,35,2,Yes,59,10,19.5,,18.75,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer B,0,0.001923102920576274,0,Low Risk
+520,50,2,No,13,0,30.15,19.0,,No,,Yes,Cable,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,0,0.5330379647491454,1,Medium Risk
+3676,36,0,Yes,4,2,54.7,3.0,6.77,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.5038441587365242,1,Medium Risk
+197,44,0,No,8,0,94.7,10.0,19.49,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8308015413690725,1,High Risk
+890,25,1,Yes,11,7,59.65,47.0,21.14,Yes,No,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.24208632142140113,0,Low Risk
+3060,26,3,No,8,0,19.95,,45.87,Yes,No,No,,,,,,,,,,Month-to-Month,No,Mailed Check,,0,0.35053676332637457,0,Medium Risk
+2465,73,0,Yes,57,1,100.6,3.0,42.1,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer B,1,0.7870164115193324,1,High Risk
+4162,62,0,No,2,0,,27.0,24.05,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,Offer E,1,0.9505235232818814,1,High Risk
+3205,41,3,Yes,55,7,75.75,29.0,16.16,Yes,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.04513736360196836,0,Low Risk
+315,78,0,Yes,5,1,,14.0,6.66,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.9115862532672095,1,High Risk
+6086,40,0,No,16,0,19.75,,40.17,Yes,No,No,,,,,,,,,,Two Year,No,Mailed Check,Offer D,0,0.07124968782331816,0,Low Risk
+4137,27,0,No,18,0,35.0,85.0,,No,,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.5700813422944466,1,Medium Risk
+1845,52,0,No,61,0,89.65,8.0,23.45,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.09884659178641504,0,Low Risk
+4351,26,0,No,26,0,98.65,76.0,37.0,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.5720520442427762,1,Medium Risk
+5518,55,0,No,19,0,55.0,23.0,4.3,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,Offer D,1,0.4181700609794307,0,Medium Risk
+5685,77,1,Yes,72,1,115.75,17.0,30.78,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Two Year,Yes,Credit Card,Offer A,0,0.10573477053715025,0,Low Risk
+1881,29,3,No,18,0,80.55,48.0,41.08,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.4892990424789023,0,Medium Risk
+3474,36,0,No,54,0,79.85,3.0,7.64,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.7501490651214001,1,High Risk
+2099,59,0,Yes,66,10,89.0,8.0,37.38,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.10936980349404635,0,Low Risk
+6149,60,0,Yes,23,3,19.3,,36.14,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.03988053064098329,0,Low Risk
+2491,55,0,Yes,50,6,103.85,14.0,42.21,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.5403482421087826,1,Medium Risk
+4107,46,0,Yes,17,10,92.6,13.0,9.22,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.4597511965121279,0,Medium Risk
+5791,73,0,Yes,69,5,95.35,13.0,49.91,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.17844894249080162,0,Low Risk
+6411,27,0,No,9,0,98.3,82.0,38.76,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,1,0.680816228533505,1,High Risk
+1068,65,0,No,6,0,74.1,20.0,12.67,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.17418101334244523,0,Low Risk
+5585,21,1,Yes,15,1,25.25,,29.55,Yes,Yes,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,0,0.31432459140135327,0,Medium Risk
+2524,77,0,Yes,69,7,84.9,14.0,14.76,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.37244000043682124,0,Medium Risk
+4150,58,0,No,4,0,50.8,21.0,1.88,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer E,0,0.6909585619004651,1,High Risk
+3071,19,0,Yes,22,1,69.25,52.0,32.11,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6951288086882189,1,High Risk
+4886,48,0,No,59,0,83.25,16.0,31.23,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.7092060145494056,1,High Risk
+3865,37,3,Yes,35,7,20.1,,11.75,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0031388033949546435,0,Low Risk
+206,43,0,No,72,0,61.2,6.0,,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.0801314096132223,0,Low Risk
+1145,80,0,No,17,0,89.15,28.0,30.37,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.8396181553309624,1,High Risk
+4471,28,0,No,44,0,20.05,,47.53,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.023224803442356817,0,Low Risk
+1484,62,0,Yes,72,5,82.15,5.0,22.01,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.1468945964764565,0,Low Risk
+5589,26,0,No,4,0,19.4,,22.54,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.30991003276472945,0,Medium Risk
+3103,36,0,No,4,0,75.65,22.0,23.5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.8853022231763205,1,High Risk
+3263,26,0,No,15,0,65.6,73.0,20.11,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,No,Yes,Yes,One Year,No,Credit Card,Offer D,0,0.24314931237606893,0,Low Risk
+1008,25,2,Yes,71,1,23.9,,29.41,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.03335420909139912,0,Low Risk
+6541,44,0,No,14,0,80.45,23.0,1.19,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7985418127156934,1,High Risk
+5229,57,2,No,4,0,20.05,,27.37,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,0,0.456563252671071,0,Medium Risk
+6143,34,0,Yes,60,1,110.8,14.0,30.23,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer B,0,0.31564490580092897,0,Medium Risk
+5964,21,0,Yes,72,10,108.2,71.0,14.19,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.13581486603313445,0,Low Risk
+863,59,0,Yes,18,4,20.1,,25.54,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.015719363598191625,0,Low Risk
+2592,45,0,No,62,0,19.2,,24.03,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.055975493177908044,0,Low Risk
+5931,67,0,No,64,0,102.1,26.0,10.07,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.4712357022039592,0,Medium Risk
+1730,36,0,Yes,25,1,89.1,25.0,23.24,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.824528804426642,1,High Risk
+5961,22,1,Yes,71,1,100.2,27.0,33.69,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,No,Credit Card,,0,0.1046110693469261,0,Low Risk
+3517,42,0,No,7,0,62.8,21.0,8.29,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.5314364720942734,1,Medium Risk
+5408,58,3,Yes,56,10,20.05,,35.38,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.004064684098264381,0,Low Risk
+4716,48,0,Yes,70,5,95.0,16.0,31.13,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.21438723211045974,0,Low Risk
+6139,55,0,Yes,27,0,101.9,27.0,20.02,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer C,0,0.5090292183028312,1,Medium Risk
+35,60,0,Yes,59,4,94.75,14.0,16.39,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.4637589095206847,0,Medium Risk
+547,56,0,Yes,16,3,94.65,2.0,10.5,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.721192799160846,1,High Risk
+4438,59,0,Yes,63,6,70.8,13.0,46.99,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,No,Credit Card,,0,0.08507425953237717,0,Low Risk
+4013,21,0,Yes,41,1,19.75,,35.46,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,Offer B,0,0.0957129587176377,0,Low Risk
+5819,23,0,Yes,8,1,65.5,41.0,23.68,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,Offer E,0,0.19901225338783146,0,Low Risk
+4051,56,0,Yes,72,6,65.5,4.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.0474134315918887,0,Low Risk
+5165,43,1,Yes,12,3,20.1,,24.65,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.15971139785168367,0,Low Risk
+160,49,3,Yes,8,10,54.4,57.0,1.56,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.3114627699611793,0,Medium Risk
+5494,38,3,Yes,51,3,19.4,,37.63,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.018418179355864758,0,Low Risk
+1836,38,0,Yes,72,1,19.4,,49.5,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.04694446615374302,0,Low Risk
+950,31,1,Yes,72,9,106.1,24.0,7.16,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,Offer A,0,0.033925915644834735,0,Low Risk
+3219,79,0,Yes,11,1,19.95,,29.54,Yes,No,No,,,,,,,,,,Month-to-Month,No,Mailed Check,,1,0.47336399591812267,0,Medium Risk
+2226,47,0,No,15,0,51.55,26.0,3.15,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.564687971067633,1,Medium Risk
+4535,24,1,Yes,12,3,21.05,,49.7,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.027543058333937918,0,Low Risk
+269,34,0,Yes,51,1,98.85,23.0,47.72,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,Offer B,0,0.6301114785144173,1,High Risk
+2876,33,0,No,10,0,36.25,23.0,,No,,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.4705358546527483,0,Medium Risk
+3513,72,0,Yes,72,4,111.65,19.0,16.92,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,,0,0.1296612852391252,0,Low Risk
+1501,46,0,Yes,57,1,70.1,7.0,36.65,Yes,No,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,1,0.4045057055144631,0,Medium Risk
+5307,44,3,Yes,13,5,25.0,,35.19,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.029478364536316,0,Low Risk
+3475,72,0,Yes,33,1,94.5,8.0,27.78,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9061061995264167,1,High Risk
+934,44,1,Yes,33,1,82.1,30.0,1.62,Yes,No,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer C,0,0.09987745512074243,0,Low Risk
+5505,35,2,Yes,72,1,107.45,19.0,17.89,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.09935115125208614,0,Low Risk
+3550,61,0,No,2,0,94.95,2.0,26.05,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9069865010923469,1,High Risk
+3875,72,0,Yes,44,6,89.2,30.0,14.65,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.11968345063057721,0,Low Risk
+6475,58,0,Yes,17,1,69.0,11.0,44.97,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7149487945939613,1,High Risk
+2190,42,0,No,13,0,89.4,15.0,8.59,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.64913271092003,1,High Risk
+2111,77,0,Yes,10,0,85.55,27.0,6.01,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.8487258245774838,1,High Risk
+1120,49,0,Yes,34,5,24.7,,11.52,Yes,Yes,No,,,,,,,,,,Month-to-Month,No,Bank Withdrawal,Offer C,0,0.2486721227951182,0,Low Risk
+4765,62,2,No,12,0,105.3,18.0,16.96,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.692482154595961,1,High Risk
+3925,46,0,No,69,0,81.5,26.0,3.24,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.0768600641673732,0,Low Risk
+5798,44,0,Yes,63,2,99.65,16.0,1.43,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.35574647330053155,0,Medium Risk
+6428,60,0,Yes,59,9,18.4,,26.99,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer B,0,0.026737170120982423,0,Low Risk
+1440,56,0,Yes,51,4,60.5,12.0,47.18,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.11788788522641544,0,Low Risk
+5417,54,3,Yes,8,1,19.6,,13.43,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer E,0,0.07348222093424485,0,Low Risk
+2432,25,1,Yes,71,0,114.0,59.0,25.45,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.11977738467681479,0,Low Risk
+1082,44,0,No,11,0,45.2,22.0,40.59,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer D,0,0.4500580911079059,0,Medium Risk
+3030,28,0,No,18,0,,48.0,,No,,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,One Year,Yes,Credit Card,,0,0.20524939272068812,0,Low Risk
+4358,47,2,Yes,33,2,79.15,18.0,31.59,Yes,Yes,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.17147004289366194,0,Low Risk
+5245,20,0,No,14,0,76.45,26.0,18.46,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6979528952418361,1,High Risk
+3129,63,0,No,26,0,19.8,,45.7,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer C,0,0.042691793724551105,0,Low Risk
+71,45,0,No,50,0,35.4,7.0,,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,Offer B,0,0.16262583590407456,0,Low Risk
+194,63,0,No,2,0,45.35,9.0,25.49,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9270869199737187,1,High Risk
+2334,37,0,No,10,0,98.9,26.0,46.33,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer D,0,0.5024051730912317,1,Medium Risk
+2718,46,1,Yes,10,6,19.8,,19.05,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.18039936154910285,0,Low Risk
+187,58,0,No,26,0,88.8,22.0,38.09,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.7479591356925099,1,High Risk
+4625,69,0,Yes,70,4,88.55,8.0,40.94,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,Yes,Credit Card,,0,0.056201049805311834,0,Low Risk
+1259,75,0,Yes,27,1,75.5,23.0,10.6,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8866202953167127,1,High Risk
+3123,65,0,No,5,0,20.05,,30.14,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,Offer E,0,0.23353907284321587,0,Low Risk
+5995,51,0,Yes,62,2,86.1,23.0,43.2,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.04908856650241337,0,Low Risk
+1272,59,0,No,18,0,33.5,26.0,,No,,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,1,0.42485678231944346,0,Medium Risk
+3678,38,0,No,4,0,56.4,30.0,20.76,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.73225477283112,1,High Risk
+2008,32,0,No,12,0,78.1,18.0,42.55,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,1,0.7143933162983025,1,High Risk
+6204,26,3,Yes,38,7,19.95,,49.9,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,Offer C,0,0.01525894708947341,0,Low Risk
+3092,56,3,No,1,0,24.75,57.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.8473911331293189,1,High Risk
+5808,23,2,Yes,63,5,24.65,,28.92,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.01478488927321362,0,Low Risk
+5767,20,2,Yes,10,0,85.95,76.0,6.5,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.5593804238594573,1,Medium Risk
+6507,43,0,No,22,0,20.05,,33.92,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer D,0,0.21771883879396584,0,Low Risk
+5878,65,0,Yes,7,2,101.95,3.0,34.66,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8057101836273179,1,High Risk
+759,54,3,Yes,53,9,69.7,57.0,27.93,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.03106787666006864,0,Low Risk
+310,49,2,Yes,25,5,19.15,,19.09,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,,0,0.13446815962609207,0,Low Risk
+4155,27,0,No,26,0,54.75,42.0,39.84,Yes,No,Yes,Cable,No,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.4631205051239213,0,Medium Risk
+2612,59,0,No,25,0,81.75,23.0,25.2,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.42975926600359043,0,Medium Risk
+5909,26,0,No,12,0,20.45,,41.11,Yes,No,No,,,,,,,,,,Month-to-Month,No,Mailed Check,,0,0.361800035676547,0,Medium Risk
+1040,37,2,Yes,60,1,23.95,,28.45,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,,0,0.0550432592592341,0,Low Risk
+4207,41,0,No,20,0,24.9,21.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.4617397086657442,0,Medium Risk
+1021,26,3,Yes,57,1,97.55,73.0,4.18,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.2660127734762917,0,Low Risk
+1710,44,0,Yes,8,1,19.75,,46.13,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer E,1,0.15410483083829243,0,Low Risk
+1012,43,0,No,12,0,19.7,,18.71,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.2208352483028189,0,Low Risk
+2207,76,0,Yes,21,1,69.1,18.0,19.74,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.8041454026148828,1,High Risk
+3814,40,0,No,52,0,58.75,19.0,,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.11883782589059377,0,Low Risk
+4399,31,0,Yes,58,9,,,18.68,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.02354611500001175,0,Low Risk
+61,59,0,No,1,0,99.75,25.0,40.71,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9427688610164476,1,High Risk
+4492,64,0,Yes,35,2,91.5,10.0,23.85,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,No,Month-to-Month,Yes,Credit Card,,0,0.5964681870300145,1,Medium Risk
+665,43,2,Yes,19,6,20.6,,4.7,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.1009956181108066,0,Low Risk
+3501,51,0,Yes,51,1,59.3,2.0,,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,1,0.367964653462752,0,Medium Risk
+980,34,0,No,2,0,45.85,16.0,19.52,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,1,0.9024549783958268,1,High Risk
+1994,45,1,Yes,13,7,19.75,,5.58,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.02131873904664265,0,Low Risk
+1587,58,3,Yes,8,6,19.65,,26.17,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer E,0,0.18401425782558103,0,Low Risk
+1627,74,0,Yes,34,2,64.2,23.0,12.33,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.19933248177925714,0,Low Risk
+4531,29,0,Yes,48,4,97.05,59.0,47.64,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.3983640734938113,0,Medium Risk
+751,61,2,Yes,41,4,74.55,20.0,28.55,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.22314899575625025,0,Low Risk
+1852,64,0,Yes,40,1,84.85,19.0,2.03,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.7217592855533359,1,High Risk
+4330,59,0,No,1,0,93.3,30.0,7.99,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9721039741073859,1,High Risk
+1954,58,0,No,62,0,96.75,9.0,22.64,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,1,0.5038029005891478,1,Medium Risk
+330,21,0,No,5,0,54.2,69.0,3.61,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.5038830732062989,1,Medium Risk
+5990,35,0,No,70,0,26.05,,31.33,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,,0,0.07529868393585384,0,Low Risk
+887,56,2,Yes,7,1,48.8,28.0,9.1,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,0,0.6381905266145661,1,High Risk
+3356,55,1,Yes,69,5,25.6,,20.98,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.00562603355169253,0,Low Risk
+5984,52,0,No,51,0,56.4,24.0,,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.2941690577246525,0,Low Risk
+1609,51,0,No,11,0,70.2,8.0,1.01,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.708475820870064,1,High Risk
+5012,34,0,No,1,0,45.3,18.0,,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,,1,0.918533213538349,1,High Risk
+918,31,0,Yes,57,2,107.95,29.0,16.78,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.1943335611090315,0,Low Risk
+5183,37,0,Yes,5,1,24.95,7.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.775419948437979,1,High Risk
+2505,23,0,No,7,0,85.2,26.0,18.83,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer E,1,0.7740299297711591,1,High Risk
+3568,26,0,Yes,71,3,91.05,76.0,9.5,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer A,0,0.026907290573495956,0,Low Risk
+6586,40,0,Yes,22,1,85.1,17.0,16.2,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.8209137990701237,1,High Risk
+5765,45,0,No,41,0,74.25,6.0,1.08,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.5702693793170315,1,Medium Risk
+2924,76,0,No,16,0,84.75,7.0,17.51,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.902202907329441,1,High Risk
+1741,40,1,Yes,36,2,53.65,19.0,8.0,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Credit Card,,0,0.0940078079781524,0,Low Risk
+6307,64,0,No,4,0,89.6,20.0,36.76,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,1,0.782504872792319,1,High Risk
+6439,55,0,Yes,72,8,92.0,5.0,5.32,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Credit Card,,0,0.043266400694326156,0,Low Risk
+3131,64,2,No,1,0,60.0,16.0,43.48,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.7080049366960453,1,High Risk
+6484,39,0,No,3,0,78.5,7.0,31.88,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.955624794067262,1,High Risk
+4829,63,0,Yes,10,1,85.6,29.0,30.1,Yes,Yes,Yes,Cable,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8666503994278821,1,High Risk
+5665,37,2,Yes,47,1,60.0,25.0,,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.09197439625728922,0,Low Risk
+86,57,0,No,26,0,20.3,,13.34,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,Offer C,0,0.3306629505174967,0,Medium Risk
+873,28,0,Yes,41,4,68.5,51.0,13.58,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes,One Year,No,Bank Withdrawal,,0,0.12377964357789847,0,Low Risk
+3797,22,0,Yes,4,1,80.85,59.0,44.28,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.8775408621787435,1,High Risk
+554,32,3,Yes,68,6,103.75,53.0,16.09,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.0367761135348278,0,Low Risk
+1477,19,2,Yes,40,3,60.3,26.0,,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,,0,0.08826535039073322,0,Low Risk
+2550,35,0,Yes,63,3,75.7,21.0,12.15,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.04288155042655515,0,Low Risk
+3734,60,0,Yes,53,6,19.85,,11.35,Yes,No,No,,,,,,,,,,One Year,Yes,Bank Withdrawal,Offer B,0,0.06217093209974378,0,Low Risk
+3538,66,0,No,72,0,25.1,,2.37,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,Offer A,0,0.0726283050134999,0,Low Risk
+157,22,3,Yes,23,1,24.35,,48.02,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,,0,0.07889778610166741,0,Low Risk
+3937,19,3,Yes,15,6,105.35,59.0,4.19,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.3584684140172241,0,Medium Risk
+1902,45,3,No,18,0,64.8,28.0,42.45,Yes,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.4058114303649588,0,Medium Risk
+3095,55,0,No,26,0,98.35,27.0,40.17,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7737552396860548,1,High Risk
+2070,44,0,No,66,0,105.65,11.0,30.96,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.31054203900861627,0,Medium Risk
+1619,20,2,Yes,41,1,78.45,69.0,32.29,Yes,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.08059826687160107,0,Low Risk
+6425,54,0,No,39,0,81.4,12.0,36.93,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,One Year,No,Credit Card,Offer C,0,0.2111593881841332,0,Low Risk
+320,54,1,Yes,46,1,20.2,,45.92,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.03904433146013444,0,Low Risk
+2951,52,0,No,1,0,69.65,8.0,49.24,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.96978013206367,1,High Risk
+186,63,0,No,6,0,49.45,8.0,39.16,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6118332905607372,1,High Risk
+5016,44,1,No,62,0,104.05,19.0,17.67,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.14752625985629877,0,Low Risk
+4742,34,0,No,38,0,95.0,21.0,3.95,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,One Year,No,Bank Withdrawal,Offer C,0,0.32723380965100846,0,Medium Risk
+1658,48,0,No,44,0,111.5,19.0,44.45,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.6395635500205347,1,High Risk
+3859,63,3,Yes,21,1,58.85,30.0,35.72,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Credit Card,,0,0.14003372559585262,0,Low Risk
+3520,21,3,Yes,64,8,92.85,69.0,37.47,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.08357508751615221,0,Low Risk
+2928,68,0,No,13,0,54.8,20.0,10.51,Yes,No,Yes,DSL,No,Yes,Yes,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.21818772989676347,0,Low Risk
+4123,29,0,Yes,17,5,75.4,52.0,7.6,Yes,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5171650158709771,1,Medium Risk
+3025,41,1,Yes,6,1,45.5,29.0,29.41,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.48229324053303574,0,Medium Risk
+4088,61,0,No,57,0,74.3,3.0,6.45,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Credit Card,,0,0.12937637532828952,0,Low Risk
+2358,19,0,No,62,0,20.05,,33.68,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.06919073514809686,0,Low Risk
+164,56,0,Yes,63,2,19.95,,38.36,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,Offer B,0,0.03462062038491608,0,Low Risk
+3790,46,0,No,2,0,79.85,2.0,16.14,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8830012494180018,1,High Risk
+790,51,0,No,9,0,76.85,8.0,42.41,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.8164651676389592,1,High Risk
+3304,20,0,No,27,0,81.3,69.0,25.51,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,0,0.6983972478228911,1,High Risk
+3836,57,0,Yes,50,7,104.4,7.0,20.79,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Mailed Check,Offer B,0,0.24902596019082518,0,Low Risk
+3310,69,0,No,1,0,20.05,,19.87,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer E,1,0.8638967673751424,1,High Risk
+2090,35,0,Yes,17,1,70.4,11.0,13.68,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8255796208411522,1,High Risk
+3393,57,0,Yes,37,6,55.05,10.0,27.41,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,,0,0.2674156282312657,0,Low Risk
+5912,41,0,No,1,0,78.65,10.0,46.09,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.9593067971818101,1,High Risk
+1594,21,0,Yes,59,1,44.3,53.0,,No,,Yes,DSL,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.6172649239667412,1,High Risk
+3524,73,2,Yes,28,1,51.0,21.0,4.71,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,,0,0.1996272797718068,0,Low Risk
+2884,35,3,Yes,15,9,19.5,,49.36,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,Offer D,0,0.03906371658693904,0,Low Risk
+6022,22,3,Yes,72,8,81.0,59.0,2.73,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.015314355263493378,0,Low Risk
+5766,26,0,Yes,26,7,81.9,48.0,11.23,Yes,No,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.3322521644868336,0,Medium Risk
+2911,25,2,No,18,0,57.65,30.0,17.51,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer D,0,0.379311195912575,0,Medium Risk
+4068,46,0,No,7,0,53.65,17.0,40.42,Yes,Yes,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.6201592620012958,1,High Risk
+3217,40,0,No,1,0,19.8,,9.66,Yes,No,No,,,,,,,,,,Month-to-Month,No,Mailed Check,,1,0.8428690845569181,1,High Risk
+4635,64,3,Yes,72,1,25.2,,39.3,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.031224052215159837,0,Low Risk
+4665,48,1,Yes,72,0,24.1,,19.64,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.024367118081543584,0,Low Risk
+2797,61,0,Yes,72,2,25.4,,34.29,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.02579209367713895,0,Low Risk
+4443,70,0,No,5,0,78.95,20.0,12.27,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.8743461259983206,1,High Risk
+4644,29,0,Yes,39,5,86.3,19.0,40.25,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer C,1,0.42418925010271424,0,Medium Risk
+5785,38,0,Yes,72,1,24.8,,13.72,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0646264428839439,0,Low Risk
+4476,25,0,Yes,72,1,104.15,59.0,25.82,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer A,0,0.527289676355847,1,Medium Risk
+535,55,0,No,24,0,21.05,,47.31,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.11962694317503593,0,Low Risk
+2428,23,0,No,1,0,88.35,46.0,14.26,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9503090846333648,1,High Risk
+4838,75,0,No,18,0,93.9,25.0,1.92,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,Offer D,0,0.18585383310461068,0,Low Risk
+2467,61,3,Yes,33,2,20.1,,24.27,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0066227511498669015,0,Low Risk
+341,66,0,Yes,55,2,85.45,27.0,42.82,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.7320356981520997,1,High Risk
+1009,25,0,No,43,0,115.05,26.0,24.85,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.21758776084033257,0,Low Risk
+1671,54,2,Yes,72,10,19.8,,38.84,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.00488890608018179,0,Low Risk
+3212,39,0,Yes,39,10,20.45,,36.39,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,Offer C,0,0.020132866451836488,0,Low Risk
+4453,60,0,No,11,0,20.4,,49.8,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer D,0,0.05341505270810784,0,Low Risk
+506,68,0,No,16,0,39.0,24.0,,No,,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.7201476864289056,1,High Risk
+5160,32,3,Yes,47,0,63.8,57.0,30.06,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Two Year,No,Bank Withdrawal,,0,0.1066118354220602,0,Low Risk
+3385,44,0,No,16,0,75.1,25.0,38.02,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6839142475281463,1,High Risk
+3776,31,0,No,1,0,,26.0,13.84,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,1,0.9015524822803833,1,High Risk
+3509,62,2,Yes,10,1,100.25,30.0,24.48,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.5988081758961679,1,Medium Risk
+1702,65,0,Yes,26,1,84.95,3.0,18.26,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,1,0.7767669648977799,1,High Risk
+5929,29,0,Yes,71,1,116.1,27.0,33.83,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Bank Withdrawal,,0,0.3130005986306836,0,Medium Risk
+5904,33,4,Yes,18,1,55.95,30.0,18.47,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.3839198701570154,0,Medium Risk
+1699,49,0,No,54,0,108.0,4.0,17.76,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer B,0,0.25947850065720257,0,Low Risk
+3977,80,0,Yes,23,1,104.45,14.0,45.21,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,0,0.8748427843217123,1,High Risk
+2035,32,0,Yes,17,2,64.8,11.0,45.35,Yes,No,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,One Year,No,Credit Card,Offer D,0,0.2414027166373477,0,Low Risk
+5362,28,0,No,13,0,,53.0,,No,,Yes,Cable,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.6915870557926481,1,High Risk
+5169,19,3,Yes,70,1,60.35,47.0,,No,,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer A,0,0.208545519299086,0,Low Risk
+3547,19,2,Yes,69,0,19.4,,25.18,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.03444649194180893,0,Low Risk
+3371,47,0,No,8,0,29.35,8.0,,No,,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer E,0,0.5277930775136691,1,Medium Risk
+1626,36,0,Yes,60,6,109.45,9.0,4.59,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.39999754522053077,0,Medium Risk
+872,25,2,Yes,18,2,46.4,59.0,,No,,Yes,DSL,No,Yes,Yes,No,Yes,No,No,Yes,One Year,No,Credit Card,,0,0.10061039060580547,0,Low Risk
+785,19,0,No,4,0,48.25,30.0,,No,,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,Offer E,0,0.6665798973247952,1,High Risk
+6483,66,0,Yes,66,1,110.85,13.0,48.87,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One Year,Yes,Bank Withdrawal,,1,0.487998612916147,0,Medium Risk
+2981,36,0,Yes,70,1,24.25,,28.54,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,Offer A,0,0.062422870437956,0,Low Risk
+1791,56,0,Yes,46,1,19.95,,30.47,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.061499471548188016,0,Low Risk
+2548,45,0,No,1,0,19.9,,49.51,Yes,No,No,,,,,,,,,,Month-to-Month,No,Mailed Check,,1,0.8352668816462736,1,High Risk
+5754,50,1,Yes,59,2,19.85,,41.19,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.005791028236119967,0,Low Risk
+5934,23,0,No,27,0,100.5,73.0,8.86,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,Offer C,0,0.5443561915133517,1,Medium Risk
+740,64,0,No,17,0,24.8,,9.84,Yes,Yes,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.2713793277090393,0,Low Risk
+6322,53,0,No,17,0,70.5,16.0,41.78,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.6435063769830861,1,High Risk
+2219,19,0,No,29,0,24.85,59.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,Yes,Credit Card,,0,0.20937702378757891,0,Low Risk
+2166,51,0,No,1,0,49.95,4.0,43.49,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9257842488059184,1,High Risk
+6251,22,0,No,10,0,75.05,26.0,17.98,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.7398184112559654,1,High Risk
+5632,66,0,No,42,0,55.65,30.0,27.0,Yes,Yes,Yes,Cable,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6340776763820947,1,High Risk
+6572,47,0,No,19,0,19.9,,32.03,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.19482167642522236,0,Low Risk
+3810,73,0,Yes,61,9,64.05,20.0,34.24,Yes,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.16810421646663332,0,Low Risk
+1733,28,0,No,9,0,85.35,58.0,49.14,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8002238060171533,1,High Risk
+3040,72,0,Yes,60,9,74.85,16.0,48.9,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,No,Yes,One Year,Yes,Credit Card,Offer B,0,0.12464941406889549,0,Low Risk
+2117,58,2,No,18,0,45.65,28.0,34.07,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,Offer D,0,0.37941292153488476,0,Medium Risk
+3107,43,0,Yes,72,7,75.4,18.0,42.16,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.12895744155567881,0,Low Risk
+6527,66,1,Yes,32,9,91.35,30.0,5.73,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Credit Card,Offer C,0,0.07733755726518857,0,Low Risk
+482,39,0,No,72,0,86.65,17.0,11.41,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.06532795703545971,0,Low Risk
+5522,55,0,No,1,0,20.2,,13.27,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Mailed Check,,1,0.8246524771566012,1,High Risk
+4266,54,0,No,19,0,69.6,4.0,13.76,Yes,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,Offer D,0,0.5839242932397226,1,Medium Risk
+1832,21,0,No,24,0,49.7,59.0,3.72,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer C,0,0.5414630599434034,1,Medium Risk
+6381,35,0,No,44,0,88.15,24.0,32.83,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.6151176832543023,1,High Risk
+2249,34,0,No,26,0,92.4,8.0,37.59,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.5993302445701517,1,Medium Risk
+6114,23,0,Yes,68,2,64.1,53.0,8.62,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,No,No,Yes,Two Year,No,Bank Withdrawal,,0,0.09799317212613419,0,Low Risk
+5498,53,2,Yes,64,10,53.85,25.0,17.07,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.060127700721691955,0,Low Risk
+5233,38,0,No,4,0,44.55,29.0,30.07,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,Offer E,0,0.7057473784126583,1,High Risk
+6174,80,0,Yes,33,1,50.0,4.0,,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.24232591471872894,0,Low Risk
+5483,44,0,No,71,0,79.05,10.0,41.34,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Credit Card,Offer A,0,0.2212671550832874,0,Low Risk
+679,70,0,Yes,67,3,105.4,25.0,2.67,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,One Year,Yes,Credit Card,,0,0.21106653471492215,0,Low Risk
+6420,60,0,No,32,0,30.15,18.0,,No,,Yes,DSL,Yes,No,No,No,No,No,No,Yes,One Year,No,Credit Card,Offer C,0,0.11630324501497291,0,Low Risk
+4652,29,0,Yes,69,9,112.55,41.0,3.41,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.14881291528341742,0,Low Risk
+551,21,3,Yes,13,1,19.55,,42.23,Yes,No,No,,,,,,,,,,Two Year,No,Mailed Check,,0,0.06300299318082347,0,Low Risk
+3149,22,2,Yes,72,9,104.9,52.0,41.18,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.05736968649951663,0,Low Risk
+2724,73,0,No,46,0,95.25,30.0,6.13,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,Yes,One Year,No,Credit Card,,1,0.2924891796260577,0,Low Risk
+6097,20,0,No,52,0,111.25,52.0,33.69,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,1,0.41555885239698204,0,Medium Risk
+1418,25,0,Yes,27,3,45.85,27.0,,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,Yes,No,One Year,Yes,Credit Card,,0,0.23537664233264707,0,Low Risk
+2782,56,3,No,7,0,20.05,,49.66,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer E,0,0.10949820225563973,0,Low Risk
+2790,46,0,Yes,68,8,114.9,21.0,23.14,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer A,0,0.13061435916480998,0,Low Risk
+1342,80,0,No,30,0,104.1,21.0,41.93,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.18936284705428508,0,Low Risk
+1888,64,2,Yes,72,1,88.7,19.0,28.63,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer A,0,0.055344108773195774,0,Low Risk
+3627,71,0,Yes,43,1,94.3,5.0,4.59,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.4002410696298493,0,Medium Risk
+6028,60,3,Yes,72,1,114.0,76.0,32.47,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,0,0.10719602854863164,0,Low Risk
+282,59,0,No,53,0,94.45,6.0,33.88,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.362311066241902,0,Medium Risk
+2852,67,0,No,5,0,85.55,15.0,18.38,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer E,0,0.28069761650443986,0,Low Risk
+4456,75,0,No,1,0,43.3,26.0,,No,,Yes,DSL,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9368540152965981,1,High Risk
+1787,49,1,Yes,64,7,110.3,23.0,21.16,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.040952670186010176,0,Low Risk
+6277,72,0,No,34,0,56.25,28.0,,No,,Yes,DSL,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.14671284004254498,0,Low Risk
+813,66,0,No,4,0,80.25,4.0,8.75,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,,0,0.36996863874295455,0,Medium Risk
+4178,45,0,Yes,59,1,93.35,26.0,20.78,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.6516439417727099,1,High Risk
+4743,77,0,Yes,61,1,104.4,17.0,35.11,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,One Year,Yes,Credit Card,,1,0.44085812905161276,0,Medium Risk
+2652,45,0,No,11,0,100.75,28.0,48.64,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8395147097368758,1,High Risk
+5119,24,3,Yes,37,0,19.8,,8.21,Yes,No,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.0325348873428405,0,Low Risk
+5193,33,0,No,63,0,90.45,28.0,9.21,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,No,One Year,No,Credit Card,,0,0.37335874797182694,0,Medium Risk
+6498,21,0,No,41,0,104.7,48.0,47.74,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7511903845371415,1,High Risk
+3971,42,0,Yes,24,6,57.6,27.0,,No,,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.1716487696235808,0,Low Risk
+2110,27,0,No,1,0,70.25,59.0,23.0,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.961934634981295,1,High Risk
+6494,23,0,No,17,0,19.95,,25.91,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.04145111509520259,0,Low Risk
+3391,48,0,No,21,0,104.55,27.0,36.31,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.437980237678182,0,Medium Risk
+2561,69,0,Yes,50,1,71.05,24.0,4.6,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8157875778210948,1,High Risk
+2628,75,0,Yes,29,1,98.5,28.0,25.78,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,1,0.8749913663396999,1,High Risk
+2949,26,0,No,5,0,85.2,46.0,34.49,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8838375291931351,1,High Risk
+2197,44,0,No,5,0,94.85,19.0,40.15,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9136835428589178,1,High Risk
+2362,52,3,No,19,0,60.6,20.0,36.48,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.35521896026265104,0,Medium Risk
+1189,77,0,No,41,0,98.4,21.0,42.06,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.8786607474783835,1,High Risk
+2516,48,0,No,23,0,74.95,13.0,28.8,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7190768988731143,1,High Risk
+3416,34,0,No,47,0,20.55,,44.69,Yes,No,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.03635740442327181,0,Low Risk
+2398,56,0,No,16,0,63.05,23.0,42.73,Yes,Yes,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,0,0.6212203822029477,1,High Risk
+4708,77,2,Yes,11,8,78.1,13.0,17.66,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.38553780560188056,0,Medium Risk
+3905,60,0,Yes,45,1,54.15,26.0,42.04,Yes,No,Yes,Cable,No,Yes,No,Yes,No,No,No,Yes,One Year,Yes,Credit Card,,1,0.2532225147567451,0,Low Risk
+4600,75,0,Yes,72,3,114.95,2.0,21.38,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.0910879963577209,0,Low Risk
+6358,49,0,No,66,0,92.15,28.0,19.68,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer A,0,0.3065900336479719,0,Medium Risk
+4555,38,0,Yes,11,6,,15.0,44.2,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.4772253010457226,0,Medium Risk
+1697,45,0,Yes,65,2,76.15,13.0,21.58,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.08195028276239218,0,Low Risk
+2939,56,2,Yes,58,1,25.15,,29.5,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.03262441398383079,0,Low Risk
+1329,25,0,Yes,29,1,89.2,48.0,4.0,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8014814819886297,1,High Risk
+2801,57,0,No,10,0,19.8,,2.84,Yes,No,No,,,,,,,,,,One Year,Yes,Credit Card,,0,0.06632857699846649,0,Low Risk
+6451,23,0,No,7,0,24.35,48.0,,No,,Yes,Cable,No,No,No,No,No,No,No,Yes,One Year,Yes,Credit Card,Offer E,0,0.26364600448477404,0,Low Risk
+3725,43,0,No,9,0,19.5,,46.94,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Bank Withdrawal,,0,0.37584155280749315,0,Medium Risk
+4326,61,0,No,22,0,25.25,,4.79,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,Offer D,0,0.09834818280222651,0,Low Risk
+6401,54,1,No,27,0,25.85,,2.65,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.05630207380757298,0,Low Risk
+1089,21,1,Yes,61,8,19.1,,42.11,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.027553634388644787,0,Low Risk
+5354,73,2,No,33,0,105.35,19.0,12.75,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,Offer C,0,0.14781962802305068,0,Low Risk
+2418,43,0,No,37,0,78.9,4.0,42.41,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,No,Month-to-Month,Yes,Credit Card,,0,0.3592885066609437,0,Medium Risk
+2654,77,0,Yes,30,7,74.85,8.0,40.5,Yes,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,No,Yes,Two Year,No,Bank Withdrawal,,0,0.10529256158345096,0,Low Risk
+3919,40,0,Yes,64,0,73.55,22.0,48.41,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.5380182261237255,1,Medium Risk
+4152,38,0,Yes,68,1,90.8,21.0,11.83,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.09037835940770547,0,Low Risk
+922,23,3,Yes,33,3,20.1,,28.4,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.017349330757394598,0,Low Risk
+4856,30,0,No,1,0,90.55,51.0,15.44,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.9595520891000088,1,High Risk
+871,33,0,No,4,0,20.05,,25.8,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.3082088065918394,0,Medium Risk
+4020,44,1,No,41,0,70.2,11.0,13.76,Yes,No,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes,One Year,No,Credit Card,,0,0.15371235105645514,0,Low Risk
+1155,53,3,Yes,72,3,48.9,53.0,,No,,Yes,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,Two Year,No,Mailed Check,,0,0.04133572598671832,0,Low Risk
+5977,53,3,Yes,22,1,88.75,56.0,11.39,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.45571642534302603,0,Medium Risk
+4298,26,2,Yes,36,2,19.45,,32.3,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.007628845711248003,0,Low Risk
+4697,47,0,No,54,0,65.3,16.0,18.74,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.0879178319035235,0,Low Risk
+4199,19,0,No,3,0,40.15,26.0,,No,,Yes,DSL,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,,1,0.8946583210241879,1,High Risk
+143,64,0,Yes,52,6,81.4,24.0,41.34,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.12212561005628739,0,Low Risk
+408,64,0,No,23,0,90.05,4.0,3.55,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7253962345225414,1,High Risk
+3216,46,3,Yes,61,8,61.45,26.0,,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.0291552060444112,0,Low Risk
+4918,23,0,Yes,72,3,89.8,69.0,44.92,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.026795507243333672,0,Low Risk
+2761,22,0,Yes,52,3,66.25,52.0,,No,,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,,0,0.034079575163561235,0,Low Risk
+1752,30,0,No,64,0,105.65,73.0,24.23,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,1,0.43823044066920097,0,Medium Risk
+5813,62,0,No,60,0,79.0,3.0,35.13,Yes,No,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,,0,0.26735394926829836,0,Low Risk
+1297,51,0,Yes,65,8,84.2,16.0,41.57,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.06813533810568449,0,Low Risk
+468,66,0,No,55,0,100.0,7.0,37.38,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,1,0.48046747475591134,0,Medium Risk
+3884,55,3,Yes,6,1,55.9,20.0,14.51,Yes,No,Yes,Cable,Yes,Yes,No,No,No,No,No,No,Month-to-Month,No,Credit Card,Offer E,1,0.4869846211561406,0,Medium Risk
+2685,67,0,No,71,0,106.8,21.0,34.8,Yes,Yes,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.18104631055292877,0,Low Risk
+1390,23,0,No,12,0,79.95,41.0,40.06,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.795097651985564,1,High Risk
+2569,54,0,Yes,44,10,25.7,,15.33,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,Offer B,0,0.030456155381208272,0,Low Risk
+5268,42,2,Yes,64,4,104.4,11.0,13.95,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.12015475010352683,0,Low Risk
+1161,44,2,Yes,61,6,19.75,,25.4,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer B,0,0.0016033911731536832,0,Low Risk
+133,43,3,Yes,48,3,45.0,22.0,,No,,Yes,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,One Year,No,Credit Card,,0,0.09682290229120333,0,Low Risk
+3307,35,0,No,6,0,44.75,10.0,41.16,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,1,0.6379310536474728,1,High Risk
+2493,59,0,Yes,55,6,94.75,17.0,24.93,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.24895777475356487,0,Low Risk
+51,78,1,No,11,0,95.0,29.0,11.59,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.7116635708918184,1,High Risk
+1032,26,0,No,3,0,45.35,59.0,36.48,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9088034725225801,1,High Risk
+4052,20,0,Yes,34,10,100.45,47.0,35.29,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,0,0.45116784816758915,0,Medium Risk
+326,39,2,Yes,28,8,100.35,13.0,7.73,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,,0,0.1628527586735298,0,Low Risk
+1923,34,0,No,13,0,78.75,23.0,38.4,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.5798274549161376,1,Medium Risk
+540,33,0,No,47,0,,25.0,36.78,Yes,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.24640517182858995,0,Low Risk
+4130,24,2,Yes,56,8,52.0,41.0,,No,,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Credit Card,Offer B,0,0.027064670173640528,0,Low Risk
+1873,36,1,Yes,68,10,101.05,18.0,34.62,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer A,0,0.11382845181764377,0,Low Risk
+4078,19,0,No,26,0,87.15,41.0,45.09,Yes,No,Yes,Fiber Optic,Yes,No,Yes,Yes,No,No,No,No,One Year,Yes,Credit Card,Offer C,0,0.2268515938795205,0,Low Risk
+2862,56,3,Yes,13,8,61.8,56.0,28.15,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.20288699001045607,0,Low Risk
+3813,78,0,No,22,0,69.75,28.0,49.98,Yes,No,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,One Year,Yes,Mailed Check,Offer D,0,0.26517192564086484,0,Low Risk
+512,25,0,Yes,71,1,90.4,52.0,3.57,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.11677653074447332,0,Low Risk
+6263,53,0,No,20,0,59.2,17.0,33.14,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,0,0.3968490830379775,0,Medium Risk
+971,63,1,Yes,72,1,116.85,14.0,31.83,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.12925736632483992,0,Low Risk
+4649,34,0,Yes,38,2,69.0,16.0,32.11,Yes,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,One Year,No,Credit Card,Offer C,0,0.22352456906691073,0,Low Risk
+5816,42,0,No,11,0,23.15,,30.91,Yes,Yes,No,,,,,,,,,,Month-to-Month,No,Credit Card,,1,0.24625236061398487,0,Low Risk
+596,70,0,Yes,60,6,89.45,19.0,24.68,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,Yes,No,No,Two Year,No,Bank Withdrawal,Offer B,0,0.11186259427517088,0,Low Risk
+5569,57,1,Yes,15,3,20.05,,37.9,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.14647199150055545,0,Low Risk
+364,32,1,Yes,46,10,99.65,18.0,49.26,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.04931430378935366,0,Low Risk
+1844,33,0,No,6,0,19.15,,10.54,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.05600053806727278,0,Low Risk
+4440,65,0,No,47,0,85.5,20.0,36.58,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Credit Card,,1,0.578938048941668,1,Medium Risk
+6193,80,0,No,15,0,91.5,16.0,39.57,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.15478651251275075,0,Low Risk
+675,21,2,Yes,44,1,19.6,,4.17,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.23644366349700208,0,Low Risk
+756,42,0,Yes,19,1,88.8,20.0,34.05,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,Offer D,0,0.5447359468515267,1,Medium Risk
+1478,39,0,Yes,57,5,100.75,11.0,3.72,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.30998707440070056,0,Medium Risk
+4317,21,0,No,6,0,63.4,52.0,,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,Yes,Mailed Check,,0,0.14631190390773388,0,Low Risk
+5002,44,0,No,10,0,25.7,,32.1,Yes,Yes,No,,,,,,,,,,Two Year,No,Bank Withdrawal,,0,0.07467874222536608,0,Low Risk
+5099,49,2,Yes,12,5,56.3,29.0,17.27,Yes,No,Yes,Cable,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,0,0.29255675048683066,0,Low Risk
+4521,39,0,No,61,0,106.6,28.0,41.23,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,1,0.32357159848151695,0,Medium Risk
+2087,64,0,No,39,0,75.25,5.0,36.17,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer C,1,0.6977737207697683,1,High Risk
+1563,32,0,No,66,0,54.8,30.0,11.56,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,Yes,Mailed Check,Offer A,0,0.16672564712799903,0,Low Risk
+4976,77,0,Yes,50,1,105.05,8.0,40.9,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,,0,0.3675396022831022,0,Medium Risk
+3591,39,0,No,5,0,51.35,7.0,17.16,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.745429885794941,1,High Risk
+2172,24,0,Yes,8,6,49.55,53.0,2.38,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.4528464490473208,0,Medium Risk
+1016,59,0,No,8,0,94.0,14.0,23.89,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8226325855519964,1,High Risk
+3357,73,0,Yes,29,7,84.3,12.0,36.75,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer C,0,0.10979911072660237,0,Low Risk
+3869,42,0,No,22,0,20.3,,10.36,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,Offer D,0,0.04929062838605927,0,Low Risk
+5664,40,0,No,36,0,54.45,21.0,25.95,Yes,Yes,Yes,DSL,Yes,No,No,No,No,No,No,Yes,One Year,No,Credit Card,,0,0.12790495339157315,0,Low Risk
+270,74,0,No,9,0,49.2,12.0,7.11,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Two Year,No,Mailed Check,,0,0.1453947487445112,0,Low Risk
+4164,58,0,No,44,0,49.05,3.0,,No,,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.33873797184424653,0,Medium Risk
+4095,32,0,No,5,0,78.75,24.0,32.91,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Credit Card,,0,0.7266657870143596,1,High Risk
+3878,60,0,No,10,0,18.85,,41.04,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.24667573278425123,0,Low Risk
+639,31,0,No,18,0,49.4,3.0,20.86,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.48510642951115224,0,Medium Risk
+1866,47,3,Yes,47,5,21.3,,3.95,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.005894798864786924,0,Low Risk
+3607,49,2,Yes,33,2,24.25,,9.97,Yes,Yes,No,,,,,,,,,,Month-to-Month,No,Bank Withdrawal,,0,0.1577665324300075,0,Low Risk
+1629,60,0,No,60,0,20.6,,47.07,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer B,0,0.04062346102200452,0,Low Risk
+5604,51,0,No,10,0,20.0,,19.1,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer D,0,0.2620323672845288,0,Low Risk
+2847,41,0,Yes,3,1,20.55,,37.61,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer E,1,0.8082945339134017,1,High Risk
+5305,79,0,No,54,0,65.25,6.0,5.14,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,No,Yes,One Year,No,Bank Withdrawal,Offer B,0,0.23609660479184924,0,Low Risk
+2372,26,0,No,72,0,88.6,48.0,44.46,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.11231901970170796,0,Low Risk
+4592,40,0,No,29,0,34.3,27.0,,No,,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.39957114905037666,0,Medium Risk
+4125,37,0,No,2,0,73.25,15.0,2.96,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.9185225197872321,1,High Risk
+1950,22,0,Yes,25,0,95.15,52.0,29.81,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,,0,0.6371857711610761,1,High Risk
+1466,44,0,No,7,0,78.5,13.0,3.34,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.6623422090046213,1,High Risk
+2682,55,2,Yes,4,1,24.1,,16.68,Yes,Yes,No,,,,,,,,,,One Year,No,Credit Card,Offer E,0,0.20111457906636485,0,Low Risk
+5025,39,1,Yes,27,0,100.75,15.0,14.07,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.42461476336524523,0,Medium Risk
+5979,71,0,Yes,27,0,30.75,13.0,,No,,Yes,Cable,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,1,0.5685443911186885,1,Medium Risk
+4857,34,0,No,4,0,98.1,18.0,5.63,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.8326510066166523,1,High Risk
+5122,30,0,No,70,0,19.7,,10.0,Yes,No,No,,,,,,,,,,One Year,No,Bank Withdrawal,,0,0.11801231727526289,0,Low Risk
+2804,54,2,Yes,13,7,20.0,,4.26,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.022678201969452822,0,Low Risk
+2926,52,0,No,56,0,25.95,,47.82,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.05974035798868774,0,Low Risk
+5748,58,0,No,52,0,83.8,23.0,5.92,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,,0,0.6362796369933839,1,High Risk
+3446,64,0,No,17,0,55.5,14.0,33.68,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.49455138077978045,0,Medium Risk
+2560,53,1,No,26,0,49.5,19.0,16.34,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,0,0.4811899919985482,0,Medium Risk
+2354,19,0,No,8,0,64.1,73.0,45.04,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,,0,0.5023585616929658,1,Medium Risk
+994,53,0,No,12,0,20.4,,23.2,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.23311309995783241,0,Low Risk
+667,25,0,No,41,0,70.25,41.0,40.78,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.605948825258372,1,High Risk
+3540,65,3,Yes,65,7,107.45,26.0,19.58,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.08991001524760461,0,Low Risk
+1533,78,0,No,35,0,91.0,19.0,26.19,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,No,No,Month-to-Month,No,Credit Card,,0,0.6889421086663087,1,High Risk
+2758,44,0,No,6,0,56.25,22.0,17.18,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.5312405555029914,1,Medium Risk
+5262,44,1,Yes,11,9,90.6,19.0,38.48,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.31099453211768424,0,Medium Risk
+5714,65,0,No,1,0,71.65,12.0,28.46,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9717643802699555,1,High Risk
+1225,21,0,Yes,33,3,20.1,,49.37,Yes,No,No,,,,,,,,,,One Year,No,Credit Card,,0,0.052520992469628915,0,Low Risk
+4484,34,0,No,5,0,105.3,30.0,44.65,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,0,0.8452005582870724,1,High Risk
+4446,61,1,Yes,14,1,91.65,12.0,9.13,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.5302574761222489,1,Medium Risk
+6073,20,0,Yes,56,10,54.05,30.0,,No,,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.23608612857636047,0,Low Risk
+6169,25,0,No,12,0,20.1,,8.82,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,Offer D,0,0.26469095018859695,0,Low Risk
+4335,52,0,No,15,0,50.75,14.0,,No,,Yes,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Bank Withdrawal,Offer D,0,0.30773077799461146,0,Medium Risk
+3187,80,1,Yes,37,1,76.5,14.0,6.33,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.6334393480940852,1,High Risk
+4719,22,2,Yes,17,8,74.55,47.0,44.9,Yes,No,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,Offer D,0,0.19478016836342354,0,Low Risk
+2541,40,3,No,1,0,59.2,24.0,13.58,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.8333278794488691,1,High Risk
+1219,51,0,Yes,72,6,20.5,,43.91,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer A,0,0.012495946990986303,0,Low Risk
+2816,57,0,Yes,21,4,54.6,11.0,17.19,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.4189585534110067,0,Medium Risk
+3036,32,1,Yes,18,1,87.9,19.0,24.16,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,0,0.5048884047680066,1,Medium Risk
+6158,50,0,Yes,24,5,58.35,4.0,34.01,Yes,Yes,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,One Year,Yes,Bank Withdrawal,,0,0.18029310203012547,0,Low Risk
+4024,50,0,No,65,0,,14.0,41.78,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.5062826227980513,1,Medium Risk
+600,22,0,No,13,0,80.5,27.0,44.99,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.8068011220238519,1,High Risk
+3133,24,0,Yes,48,1,103.25,47.0,6.36,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,1,0.5320495565047476,1,Medium Risk
+3686,78,0,Yes,2,1,79.2,18.0,17.73,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.9457460355569935,1,High Risk
+5842,21,0,Yes,3,1,56.15,52.0,29.29,Yes,No,Yes,Cable,No,Yes,Yes,No,No,No,Yes,Yes,Month-to-Month,Yes,Mailed Check,Offer E,1,0.9040117095255965,1,High Risk
+3585,27,0,No,37,0,98.8,42.0,30.72,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.6121869590985235,1,High Risk
+5263,45,0,Yes,20,6,81.0,21.0,11.39,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer D,0,0.431440068706148,0,Medium Risk
+6504,73,0,Yes,72,1,109.75,22.0,35.04,Yes,Yes,Yes,Fiber Optic,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Two Year,Yes,Mailed Check,Offer A,0,0.22797733086048125,0,Low Risk
+4797,42,0,No,40,0,20.6,,22.89,Yes,No,No,,,,,,,,,,Two Year,Yes,Bank Withdrawal,,0,0.03578454999931281,0,Low Risk
+1953,34,0,No,2,0,94.2,13.0,42.89,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.9514833608823822,1,High Risk
+5121,63,0,No,11,0,20.45,,44.53,Yes,No,No,,,,,,,,,,Month-to-Month,Yes,Credit Card,Offer D,0,0.2696400547993146,0,Low Risk
+1785,75,0,No,50,0,104.95,29.0,17.65,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.7500396370281873,1,High Risk
+2610,56,3,Yes,38,2,78.95,30.0,13.67,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,No,Credit Card,,0,0.15339662547708446,0,Low Risk
+2083,51,0,No,8,0,75.25,3.0,18.82,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.8212246736237955,1,High Risk
+4241,48,0,No,62,0,56.15,8.0,7.96,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,Offer B,0,0.14064329630896683,0,Low Risk
+3861,32,1,Yes,16,10,68.25,30.0,20.12,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,,0,0.04917719102208517,0,Low Risk
+4432,24,0,No,43,0,104.6,59.0,12.88,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,,1,0.2576061927292367,0,Low Risk
+6387,56,0,No,5,0,80.1,13.0,12.35,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.7981397864301057,1,High Risk
+1462,77,0,Yes,57,1,94.0,30.0,23.05,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,No,Yes,Month-to-Month,No,Credit Card,,0,0.7196169393547176,1,High Risk
+3644,73,0,No,2,0,66.4,24.0,5.57,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7826752678081684,1,High Risk
+3193,25,0,No,70,0,104.0,42.0,12.19,Yes,Yes,Yes,Fiber Optic,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,1,0.23373595848166437,0,Low Risk
+2672,56,0,Yes,24,7,53.6,3.0,1.02,Yes,No,Yes,Cable,Yes,No,No,Yes,No,No,No,No,Month-to-Month,No,Mailed Check,Offer C,0,0.2948456780054015,0,Low Risk
+486,68,0,Yes,13,5,45.3,9.0,,No,,Yes,DSL,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,No,Bank Withdrawal,,0,0.5940848783189487,1,Medium Risk
+5849,34,0,Yes,60,10,60.2,2.0,,No,,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.2978642126869646,0,Low Risk
+2212,40,2,Yes,51,9,80.75,27.0,29.56,Yes,Yes,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer B,0,0.17683284034322186,0,Low Risk
+178,54,1,No,11,0,36.05,17.0,,No,,Yes,DSL,Yes,No,No,Yes,No,No,No,No,One Year,Yes,Credit Card,,0,0.18122874619353752,0,Low Risk
+1500,44,0,No,32,0,104.05,28.0,14.21,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,,0,0.4743388144192226,0,Medium Risk
+1425,22,0,No,21,0,99.15,51.0,6.12,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,0,0.6183887539203184,1,High Risk
+6294,32,3,Yes,9,8,102.6,30.0,23.42,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer E,0,0.3469663983776053,0,Medium Risk
+4949,23,0,Yes,60,1,24.15,,16.42,Yes,Yes,No,,,,,,,,,,One Year,No,Bank Withdrawal,Offer B,0,0.16535606528770996,0,Low Risk
+5660,37,0,Yes,40,1,106.0,28.0,29.46,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.6438965260713679,1,High Risk
+1461,27,0,Yes,50,1,94.4,47.0,17.58,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,Offer B,0,0.6043050850929373,1,High Risk
+2528,70,0,No,1,0,69.1,12.0,16.19,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.9458018302015211,1,High Risk
+4576,70,0,Yes,24,3,104.25,11.0,49.76,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer C,1,0.7751778594309952,1,High Risk
+2276,43,3,Yes,71,10,90.55,20.0,41.71,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,Offer A,0,0.0050150186038179145,0,Low Risk
+3706,44,0,Yes,20,1,24.45,10.0,,No,,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6360906099614875,1,High Risk
+3799,73,0,No,43,0,33.45,18.0,,No,,Yes,DSL,Yes,Yes,No,No,No,No,No,No,Two Year,Yes,Credit Card,,0,0.11164186367257926,0,Low Risk
+3691,70,0,Yes,3,1,94.6,27.0,32.31,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9711947445848553,1,High Risk
+6534,63,0,No,48,0,19.85,,32.04,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.0398828541293726,0,Low Risk
+6555,58,0,Yes,9,1,91.75,7.0,22.0,Yes,Yes,Yes,Fiber Optic,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.7159515601184135,1,High Risk
+4036,59,1,Yes,32,2,98.85,22.0,24.04,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.35485523942438085,0,Medium Risk
+968,52,0,No,28,0,94.5,26.0,35.52,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,1,0.590267352890068,1,Medium Risk
+2901,52,0,No,36,0,104.8,4.0,28.41,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer C,0,0.49770102368729824,0,Medium Risk
+459,70,0,No,9,0,74.55,27.0,17.56,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8899911508879571,1,High Risk
+1814,51,0,No,18,0,95.05,12.0,7.42,Yes,Yes,Yes,Fiber Optic,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.6321964469631723,1,High Risk
+5218,71,0,Yes,45,1,98.7,20.0,2.38,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.4349719034551769,0,Medium Risk
+625,45,0,No,32,0,96.2,26.0,25.21,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.6169243211450752,1,High Risk
+4991,25,0,No,36,0,65.4,85.0,26.51,Yes,No,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Credit Card,,1,0.2804113981751921,0,Low Risk
+4012,56,3,No,5,0,69.7,58.0,12.6,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.7251743159155046,1,High Risk
+2289,22,0,Yes,22,1,69.5,76.0,35.04,Yes,No,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,1,0.5050951765383831,1,Medium Risk
+6014,29,0,Yes,17,1,85.45,26.0,47.76,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8410992979019433,1,High Risk
+4076,34,0,Yes,33,5,20.05,,4.15,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.15387950537512934,0,Low Risk
+3645,19,0,No,2,0,55.1,52.0,5.33,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,Offer E,1,0.7885896487979013,1,High Risk
+3268,36,0,No,72,0,63.7,14.0,,No,,Yes,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer A,0,0.07680313650674546,0,Low Risk
+3048,51,0,No,54,0,46.2,7.0,,No,,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,Yes,Two Year,No,Bank Withdrawal,Offer B,0,0.09613276996792128,0,Low Risk
+6474,55,2,Yes,72,6,80.85,12.0,9.3,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.027088624901159174,0,Low Risk
+5561,43,0,Yes,68,1,100.3,3.0,49.51,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,,0,0.6151824411350952,1,High Risk
+2814,55,0,No,62,0,,,8.23,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.09540443891951511,0,Low Risk
+3640,28,0,No,4,0,60.4,59.0,18.03,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.5458724021386069,1,Medium Risk
+3178,43,0,Yes,29,1,94.65,15.0,40.49,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,1,0.6258052590751931,1,High Risk
+2576,43,2,Yes,9,2,54.8,24.0,44.46,Yes,No,Yes,DSL,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,,0,0.3304767564251115,0,Medium Risk
+2341,41,0,No,10,0,54.25,29.0,12.96,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.507604926440979,1,Medium Risk
+2323,60,0,No,65,0,109.15,4.0,9.36,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,Offer B,1,0.6043219097733666,1,High Risk
+2589,54,1,Yes,67,4,24.9,,17.43,Yes,Yes,No,,,,,,,,,,Two Year,Yes,Credit Card,,0,0.010926104976473899,0,Low Risk
+4992,61,0,No,18,0,20.05,,22.97,Yes,No,No,,,,,,,,,,Month-to-Month,No,Credit Card,,0,0.21031168074259662,0,Low Risk
+1203,23,0,No,39,0,58.6,58.0,48.17,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,One Year,Yes,Credit Card,Offer C,0,0.1904694896633475,0,Low Risk
+3448,41,0,Yes,70,7,67.95,15.0,24.93,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two Year,No,Credit Card,Offer A,0,0.022199688275987138,0,Low Risk
+1071,50,0,No,48,0,70.95,18.0,44.76,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.2466423541048485,0,Low Risk
+5648,58,0,Yes,54,1,20.05,,32.72,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,Offer B,0,0.04153842218943516,0,Low Risk
+5701,32,0,Yes,47,8,78.9,30.0,39.52,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,Offer B,0,0.15196781336770107,0,Low Risk
+3152,38,1,Yes,50,2,103.4,22.0,36.21,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,Yes,Bank Withdrawal,,0,0.1297656828440632,0,Low Risk
+2557,40,0,Yes,64,9,25.55,,49.39,Yes,Yes,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.02187042843940222,0,Low Risk
+824,68,0,Yes,68,5,96.55,19.0,1.98,Yes,Yes,Yes,Fiber Optic,Yes,Yes,No,No,No,Yes,No,Yes,One Year,Yes,Credit Card,,1,0.15048931192389545,0,Low Risk
+3466,33,0,No,47,0,74.45,12.0,3.47,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,No,Credit Card,Offer B,0,0.13650351033255695,0,Low Risk
+1850,54,0,No,2,0,80.6,20.0,5.32,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,1,0.8848591558676162,1,High Risk
+2783,42,1,Yes,65,10,79.4,13.0,1.83,Yes,Yes,Yes,Cable,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,Offer B,0,0.04624063319012418,0,Low Risk
+3668,57,0,No,47,0,20.15,,3.49,Yes,No,No,,,,,,,,,,Two Year,No,Credit Card,,0,0.038910818328254555,0,Low Risk
+6098,20,0,No,5,0,75.55,58.0,35.22,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,1,0.7898090244486782,1,High Risk
+3452,22,1,Yes,72,1,90.8,59.0,23.7,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,No,Two Year,Yes,Credit Card,Offer A,0,0.16005164032445343,0,Low Risk
+3496,35,0,Yes,56,1,105.6,13.0,34.1,Yes,No,Yes,Fiber Optic,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One Year,Yes,Credit Card,Offer B,0,0.5734829177454884,1,Medium Risk
+3502,32,2,Yes,29,1,87.8,13.0,33.62,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,,0,0.4705595753298883,0,Medium Risk
+2136,56,0,No,32,0,83.7,15.0,37.48,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,,0,0.35057537184214294,0,Medium Risk
+1067,71,3,No,18,0,95.45,52.0,11.33,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer D,1,0.6294211038787746,1,High Risk
+4925,57,0,No,8,0,29.25,2.0,,No,,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,0,0.5812233323388251,1,Medium Risk
+2820,30,0,No,1,0,54.35,52.0,25.39,Yes,Yes,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer E,1,0.9092556488667893,1,High Risk
+2215,61,0,No,31,0,79.2,27.0,25.57,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Two Year,No,Credit Card,,0,0.13426609030072434,0,Low Risk
+3837,46,0,Yes,72,1,67.8,6.0,15.52,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,,0,0.1493920375854088,0,Low Risk
+690,48,1,No,7,0,71.05,13.0,28.5,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,Offer E,0,0.7480100823092298,1,High Risk
+5296,40,0,No,24,0,90.55,5.0,35.93,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,,1,0.6996215286948424,1,High Risk
+4799,76,0,Yes,11,7,70.2,29.0,24.42,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,Offer D,0,0.10009939893281833,0,Low Risk
+430,20,0,Yes,21,8,28.5,59.0,,No,,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,Offer D,0,0.257838023131149,0,Low Risk
+6255,73,0,No,1,0,93.55,6.0,30.17,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,Offer E,1,0.9726113170814669,1,High Risk
+1340,50,0,No,55,0,73.1,26.0,8.93,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,0,0.721582035668275,1,High Risk
+4660,53,0,No,6,0,84.4,9.0,21.97,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,1,0.8456403498775371,1,High Risk
